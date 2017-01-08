@@ -1,0 +1,10 @@
+30 5 * * * /var/www/technodom/data/www/technodom.kz/work-scripts/load.php>/dev/null
+10 */2 * * * /var/www/technodom/data/www/technodom.kz/work-scripts/load.php>/dev/null
+30 8 * * * /var/www/technodom/data/www/technodom.kz/work-scripts/compare_goods.php>/dev/null
+10 3 * * * /var/www/technodom/data/www/technodom.kz/work-scripts/sitemap/make_site_map.php>/dev/null
+1 */4 * * * /var/www/technodom/data/www/technodom.kz/work-scripts/recommended.products.php>/dev/null
+*/30 * * * * /var/www/technodom/data/www/technodom.kz/work-scripts/cals_popular.php>/dev/null
+1 0 * * * /var/www/technodom/data/www/technodom.kz/scripts/productOfDay.php>/dev/null
+0 8 * * * /var/www/technodom/data/www/technodom.kz/scripts/productOfDay.php>/dev/null
+
+

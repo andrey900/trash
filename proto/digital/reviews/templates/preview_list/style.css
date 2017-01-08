@@ -1,0 +1,220 @@
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+.review_body{
+	font-family: "elektra_medium_proregular",Arial,Helvetica,sans-serif !important;
+}
+.review_body{
+	padding:0px 5px;
+}
+.review_body_moderation{
+	background: #f1f9f8;
+}
+.review_moderation{
+	color: green;
+}
+
+.review_body_hide{
+	background: #f7f7f7;
+}
+.review_hide{
+	color: #666;
+    font-weight: bold;
+}
+.first_leave_review{
+	padding:10px 0px;
+	color:#999;
+}
+.reviews_list li{
+	padding:5px 0px 0px 0px;
+	border-bottom:1px solid #dadada;
+	margin-bottom:5px;
+}
+.reviews_list li a{
+	border-bottom: none;
+	display:inline;
+	text-decoration: underline;
+	font-weight:normal;
+}
+.reviews_list li a:hover{
+	border-bottom: none;
+	display:inline;
+	text-decoration: none;
+}
+.reviews_list li ul li:last-child {
+	border-bottom:none;
+}
+.reviews_list_header{
+	padding:10px 0px;
+}
+.reviews_list_header b{
+	color:#3aa51a;
+	font-size: 14px;
+}
+.reviews_list_header span{
+	color:#999;
+	padding-left:5px;
+	font-size: 11px;
+}
+.reviews_list_links{
+	padding:5px 0px;
+	/*border-bottom:1px solid #dadada;*/
+}
+.reviews_list_links a{
+	padding-right:7px;
+	color:#999;
+}
+.leave_review{
+	color:#999!important;
+}
+.leave_review:hover{
+	color:#3aa51a!important;
+}
+
+.reviews-reply-form{
+	background: #f1f1f1;
+	border-style: solid;
+    border-width: 1px;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    border-color: #e1e1e1;
+}
+.reviews-reply-header{
+	padding-top:10px;
+	font-size: 14px;
+}
+.reviews-reply-header span{
+	font-family: "elektra_medium_proregular",Arial,Helvetica,sans-serif !important;
+}
+.reviews-reply-header span.reviews-required-field{
+	color:red;
+}
+.reviews-reply-form form{
+	padding:0px 10px 10px 10px;
+}
+.reviews-reply-form .results{
+	padding-top:10px;
+	font-family: "elektra_medium_proregular",Arial,Helvetica,sans-serif !important;
+}
+.reviews-reply-field-text textarea{
+	background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5) inset;
+    color: #252223;
+    font-size: 16px;
+    height: 100px;
+    width:100%;
+    margin-right: 10px;
+    padding: 10px 10px;
+}
+.reviews-reply-field-text input{
+	height: 32px;
+	background-color: #fff;
+	box-shadow: inset 0 1px 3px 0 rgba(0,0,0,.5);
+	border: 1px solid #f2f2f2;
+	margin-right: 10px;
+	color: #252223;
+	font-size: 18px;
+	padding: 5px 13px;
+}
+.reviews-reply-buttons input {	
+	background:linear-gradient(to bottom, #5ab934 1%, #258a0f 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);	
+    border: medium none;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    outline: medium none;
+    padding: 10px 15px;
+    color:#fff;
+}
+.reviews-reply-buttons input:hover {    
+   background: linear-gradient(to bottom, #848484 0%, #4a4a4a 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.review_answer{
+	padding:10px;
+	background: #fff4e8;
+	margin:5px 0px;
+}
+.review_answer_head{
+	font-size: 14px;
+}
+.review_answer_text{
+	padding-top:10px;
+}
+.review_ok_message{
+	color:green;
+	font-size:12px;
+	line-height: 1.1;
+}
+.reviews_list_links a.reviews_answers_block_link{
+	color:#3aa51a;
+}
+.error{
+	color:red;
+}
+/******/
+
+/* Rating */
+span.rating-vote { 
+	display: inline-block!important; 
+	height: 16px;
+	vertical-align: middle;
+}
+span.rating-vote a { cursor: pointer }
+span.rating-vote a.rating-vote-plus {
+	display: inline-block; 
+	outline: none;
+	margin: 0px;
+	text-decoration: none;
+	width:16px; 
+	height: 16px; 
+	background: transparent url(images/sprite.png) no-repeat 0 0;
+	border: 0px;	
+}
+span.rating-vote a.rating-vote-plus-active { background-position: 0 -96px;}
+
+span.rating-vote-disabled a.rating-vote-plus { background-position: 0 -192px; cursor: default;}
+
+span.rating-vote a.rating-vote-minus {
+	display: inline-block; 
+	width:16px; 
+	height: 16px; 
+	background: transparent url(images/sprite.png) no-repeat 0 -48px;
+	border: 0px;
+	margin: 0px;
+	outline: none;
+	text-decoration: none;	
+}
+span.rating-vote a.rating-vote-minus-active { background-position: 0 -144px;}
+
+span.rating-vote-disabled a.rating-vote-minus { background-position: 0 -240px; cursor: default;}
+
+span.rating-vote a.rating-vote-load { background: transparent url(images/waiting.gif) no-repeat!important;}
+
+span.rating-vote-result-plus 
+{ 
+	display: inline-block; 
+	height: 16px; 
+	color: #289b00; 
+	font: normal 12px Verdana;
+	margin: 1px 0 0 0px;
+	padding:0;
+	vertical-align: top;
+}
+span.rating-vote-result-minus 
+{ 
+	display: inline-block; 
+	height: 16px; 
+	color: red; 
+	font: normal 12px Verdana;
+	margin: 1px 0 0 0px;
+	padding:0;
+	vertical-align: top;
+}
+
+span.rating-vote-result-minus { color: #ca0000;}
+
+.rating_vote_graphic { display: inline-block!important; }
+.rating_vote_text { display: none!important; }

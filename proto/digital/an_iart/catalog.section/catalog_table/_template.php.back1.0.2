@@ -1,0 +1,361 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+
+<?if( count( $arResult["ITEMS"] ) >= 1 ){?>
+	<?
+	/*$notifyOption = COption::GetOptionString("sale", "subscribe_prod", "");
+	$arNotify = unserialize($notifyOption);*/
+	?>				
+	<table class="module_products_list">
+		<tbody>
+			
+			<?foreach( $arResult["ITEMS"]  as $arItem ){
+				$this->AddEditAction($arItem['ID'], $arItem['EDIT_LINK'], CIBlock::GetArrayByID($arParams["IBLOCK_ID"], "ELEMENT_EDIT"));
+				$this->AddDeleteAction($arItem['ID'], $arItem['DELETE_LINK'], CIBlock::GetArrayByID($arParams["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BCS_ELEMENT_DELETE_CONFIRM')));
+				$totalCount = $indicators = 0;
+				if($arItem["OFFERS"]){
+					foreach($arItem["OFFERS"] as $key => $arOffer){
+						$totalCount += $arOffer["CATALOG_QUANTITY"];
+					}
+				}
+				elseif($arItem["PRICES"]){
+					$totalCount = $arItem["CATALOG_QUANTITY"];
+				}
+				if($arParams["USE_MIN_AMOUNT"] == 'Y'){
+					if(intval($totalCount) > $arParams["MAX_AMOUNT"]) { $amount = GetMessage("MANY_GOODS"); $indicators = 3; }
+					elseif(intval($totalCount) >= $arParams["MIN_AMOUNT"]) { $amount = GetMessage("SUFFICIENT_GOODS"); $indicators = 2; }
+					elseif(intval($totalCount) < $arParams["MIN_AMOUNT"] && intval($totalCount) > 0) { $amount = GetMessage("FEW_GOODS"); $indicators = 1; }
+				}
+				else{
+					$indicators = ($totalCount < 3 ? 1 : ($totalCount >=6 ? 3 : 2));
+				}
+				if($arParams["USE_ONLY_MAX_AMOUNT"] == "Y" && $indicators != 3){
+					$amount = '';
+				}
+				?>		
+				<?			
+				if (($arParams["SHOW_MEASURE"]=="Y")&&($arItem["CATALOG_MEASURE"]))
+				{ $arMeasure = CCatalogMeasure::getList(array(), array("ID"=>$arItem["CATALOG_MEASURE"]), false, false, array())->GetNext(); }
+				?>
+				<tr class="item" id="<?=$this->GetEditAreaId($arItem['ID']);?>">
+					<?if( !empty($arItem["DETAIL_PICTURE"]) ){?>
+						<td class="foto-cell">
+							<?$img_preview = CFile::ResizeImageGet( $arItem["DETAIL_PICTURE"], array( "width" => 50, "height" => 50 ), BX_RESIZE_IMAGE_PROPORTIONAL_ALT, true);?>
+							<?if ($arParams["LIST_DISPLAY_POPUP_IMAGE"]=="Y"):?>
+								<a class="popup_image fancy" href="<?=$arItem["DETAIL_PICTURE"]["SRC"]?>" title="<?=$arItem["NAME"]?>">
+									<img src="<?=$img_preview["src"]?>" alt="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" title="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" />
+								</a>
+							<?else:?>
+								<img src="<?=$img_preview["src"]?>" alt="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" title="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" />
+							<?endif;?>							
+						</td>						
+					<?}elseif( !empty($arItem["PREVIEW_PICTURE"])){?>
+						<td class="foto-cell">
+							<?$img_preview = CFile::ResizeImageGet( $arItem["PREVIEW_PICTURE"], array( "width" => 50, "height" => 50 ), BX_RESIZE_IMAGE_PROPORTIONAL_ALT, true);?>
+							<?if ($arParams["LIST_DISPLAY_POPUP_IMAGE"]=="Y"):?>
+								<a class="popup_image fancy" href="<?=$arItem["PREVIEW_PICTURE"]["SRC"]?>" title="<?=$arItem["NAME"]?>">
+									<img src="<?=$img_preview["src"]?>" alt="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" title="<?=($arItem["PREVIEW_PICTURE"]["TITLE"]?$arItem["PREVIEW_PICTURE"]["TITLE"]:$arItem["NAME"]);?>" />
+									<i class="triangle"></i>
+								</a>
+							<?else:?>
+								<img src="<?=$img_preview["src"]?>" alt="<?=($arItem["PREVIEW_PICTURE"]["ALT"]?$arItem["PREVIEW_PICTURE"]["ALT"]:$arItem["NAME"]);?>" title="<?=($arItem["PREVIEW_PICTURE"]["TITLE"]?$arItem["PREVIEW_PICTURE"]["TITLE"]:$arItem["NAME"]);?>" />
+							<?endif;?>
+						</td>							
+					<?}else{?>
+						<td class="foto-cell"><img src="<?=SITE_TEMPLATE_PATH?>/images/no_photo_small.png" alt="<?=$arResult["NAME"]?>" title="<?=$arResult["NAME"]?>" /></td>
+					<?}?>
+					
+					<td class="item-name-cell">
+						<a href="<?=$arItem["DETAIL_PAGE_URL"]?>"><?=$arItem["NAME"]?></a>
+						<?if ($arItem["PROPERTIES"]["HIT"]["VALUE"]||$arItem["PROPERTIES"]["RECOMMEND"]["VALUE"]||$arItem["PROPERTIES"]["NEW"]["VALUE"]||$arItem["PROPERTIES"]["STOCK"]["VALUE"]):?>
+							<span class="slices">
+								<?if( $arItem["PROPERTIES"]["HIT"]["VALUE"] != false):?><span class="slice-hit"></span><?endif;?>	
+								<?if( $arItem["PROPERTIES"]["RECOMMEND"]["VALUE"] != false):?><span class="slice-recomend"></span><?endif;?>									
+								<?if( $arItem["PROPERTIES"]["NEW"]["VALUE"] != false):?><span class="slice-new"></span><?endif;?>
+								<?if( $arItem["PROPERTIES"]["STOCK"]["VALUE"] != false):?><span class="slice-share"></span><?endif;?>
+							</span>							
+						<?endif;?>
+						
+						<!--adaptive properties begin-->
+							<div class="extra_properties">
+								<div class="properties-block">
+									<!--availability-->
+									<?if ($arParams["SHOW_QUANTITY"] == "Y"):?>
+										<div class="availability-row">
+											<b><?=GetMessage("AVAILABILITY_2");?>:</b>
+											<?
+												$sMeasure = GetMessage("MEASURE");
+												if ($arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]) { $sMeasure = $arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]."."; }
+
+												$amountStr = $count_in_stores;
+												if(($arParams["USE_MIN_AMOUNT"] == 'Y')&&($arParams["USE_ONLY_MAX_AMOUNT"]=="Y"))
+												{
+													if(intval($amountStr) > $arParams["MAX_AMOUNT"])	$amountStr = '<span class="many">'.GetMessage("MANY_GOODS").'</span>';
+													elseif(intval($amountStr) >= $arParams["MIN_AMOUNT"])		$amountStr = '<span class="sufficient">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+													elseif(intval($amountStr) == 0)						$amountStr = '<span class="under_order">'.GetMessage("NO_GOODS").'</span>';
+													elseif(intval($amountStr) < $arParams["MIN_AMOUNT"])	$amountStr = '<span class="few">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+												}
+												elseif($arParams["USE_MIN_AMOUNT"] == 'Y')
+												{	
+													if(intval($amountStr) > $arParams["MAX_AMOUNT"])	$amountStr = '<span class="many">'.GetMessage("MANY_GOODS").'</span>';
+													elseif(intval($amountStr) >= $arParams["MIN_AMOUNT"])		$amountStr = '<span class="sufficient">'.GetMessage("SUFFICIENT_GOODS").'</span>';
+													elseif(intval($amountStr) == 0)						$amountStr = '<span class="under_order">'.GetMessage("NO_GOODS").'</span>';
+													elseif(intval($amountStr) < $arParams["MIN_AMOUNT"])	$amountStr = '<span class="few">'.GetMessage("FEW_GOODS").'</span>';
+												}
+												else
+												{
+													if(intval($amountStr) > $arParams["MAX_AMOUNT"])	$amountStr = '<span class="many">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+													elseif(intval($amountStr) >= $arParams["MIN_AMOUNT"])		$amountStr = '<span class="sufficient">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+													elseif(intval($amountStr) == 0)						$amountStr = '<span class="under_order">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+													elseif(intval($amountStr) < $arParams["MIN_AMOUNT"])	$amountStr = '<span class="few">'.$count_in_stores.'&nbsp;'.$sMeasure.'</span>';
+												}
+											?>
+											<?=$amountStr;?>
+										</div>
+									<?endif;?>
+								</div>
+								<div class="buy-block">
+									<!--price-->
+									<div class="price-cell<?if( $arItem["OFFERS"] && (CSite::InDir(SITE_DIR.'search/tires') || CSite::InDir(SITE_DIR.'search/wheels') || CSite::InDir(SITE_DIR.'catalog/tires') || CSite::InDir(SITE_DIR.'catalog/wheels'))){echo " ws";}?>">
+										<?$count_in_stores = 0;?>
+										<?if( $arItem["OFFERS"]){?> 
+											<?foreach( $arItem["OFFERS"] as $arOffer ){$count_in_stores += $arOffer["CATALOG_QUANTITY"];}?>
+											<?if (CSite::InDir(SITE_DIR.'search/tires') || CSite::InDir(SITE_DIR.'search/wheels') || CSite::InDir(SITE_DIR.'catalog/tires') || CSite::InDir(SITE_DIR.'catalog/wheels')):?>
+												<span class="offers_error"><?=GetMessage("OFFERS_ERROR");?></span>
+											<?else:?>
+												<?=GetMessage("FROM")?> 
+												<?
+													$symb =substr($arItem["MIN_PRODUCT_OFFER_PRICE_PRINT"], strrpos($arItem["MIN_PRODUCT_OFFER_PRICE_PRINT"], ' '));
+													echo str_replace($symb, "", $arItem["MIN_PRODUCT_OFFER_PRICE_PRINT"])."<span>".$symb."</span>";
+												?>
+											<?endif;?>
+										<?} elseif ( $arItem["PRICES"] ){?>
+											<?	
+												$count_in_stores = $arItem["CATALOG_QUANTITY"];
+												$arCountPricesCanAccess = 0;
+												foreach( $arItem["PRICES"] as $key => $arPrice ) { if($arPrice["CAN_ACCESS"]){$arCountPricesCanAccess++;} }
+											?>
+											<?foreach( $arItem["PRICES"] as $key => $arPrice ){?>
+												<?if( $arPrice["CAN_ACCESS"] ){?>
+													<?$price = CPrice::GetByID($arPrice["ID"]); ?>
+													<div class="cost">
+														<?if($arCountPricesCanAccess>1):?><div class="price_name"><?=$price["CATALOG_GROUP_NAME"];?></div><?endif;?>
+														<?if( $arPrice["VALUE"] > $arPrice["DISCOUNT_VALUE"] ){?>
+															<div class="price"><?=$arPrice["PRINT_DISCOUNT_VALUE"]?></div>
+															<div class="price discount"><strike><?=$arPrice["PRINT_VALUE"]?></strike></div>
+														<?}else{?>
+															<div class="price"><?=$arPrice["PRINT_VALUE"]?></div>
+														<?}?>
+													</div>
+												<?}?>
+											<?}?>				
+										<?}?>
+									</div>
+								
+									<!--product quantity & buy buttons-->
+									<div class="buy_buttons_wrapp">
+										<!--product quantity-->
+										<?if($arParams["USE_PRODUCT_QUANTITY"]=="Y"):?>
+											<!--noindex-->
+											<span class="quantity-cell">
+												<?if (!count($arItem["OFFERS"])){?>
+													<?if( intval($count_in_stores) > 0 && ($arItem["PRICES"] || $arItem["OFFERS"]  )){?>
+														<select name="counter" class="counter">
+															<?
+																$max_count = $count_in_stores;
+																$max_count_settings = intval($arParams['MAX_COUNT']);
+																if($max_count_settings != 0) $max_count = min($max_count, $max_count_settings);
+																for($i=1;$i<=$max_count;$i++){
+															?>
+																<?if($max_count>=intval($arParams["DEFAULT_COUNT"])){?>
+																	<option value="<?=$i?>" <?=(($i==intval($arParams["DEFAULT_COUNT"])))? 'selected' : ''?>><?=$i?></option>
+																<?}else{?>
+																	<option value="<?=$i?>" <?=(($i==$max_count))? 'selected' : ''?>><?=$i?></option>
+																<?}?>
+															<?}?>
+														</select>										
+														<span class="measure"><?=$sMeasure;?></span>&nbsp;
+														
+													<?}?>
+												<?}?>
+											</span>
+											<!--/noindex-->
+										<?endif;?>
+										
+										<!--buy buttons-->
+										<span class="but-cell item_<?=$arItem["ID"]?>">
+											<!--noindex-->
+												<?if(count($arItem["OFFERS"])):?>
+													<a class="basket_button read_more" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["DETAIL_PAGE_URL"]?>">
+														<i></i><span><?=GetMessage('CATALOG_READ_MORE')?></span>
+													</a>
+												<?elseif( $arItem["CAN_BUY"] ):?>
+													<a class="basket_button to-cart" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["ADD_URL"]?>" data-quantity="<?=($arItem["CATALOG_QUANTITY"]>=intval($arParams["DEFAULT_COUNT"])) ? intval($arParams["DEFAULT_COUNT"]): $arItem["CATALOG_QUANTITY"]; ?>" alt="<?=$arItem["NAME"]?>">
+														<i></i><span><?=GetMessage('CATALOG_ADD')?></span>
+													</a>
+													<a href="<?=$arParams["BASKET_URL"]?>" data-item="<?=$arItem["ID"]?>" class="basket_button in-cart" rel="nofollow" style="display:none;">
+														<i></i><span><?=GetMessage("CATALOG_ADDED");?></span>
+													</a>
+												<?elseif($arItem["CATALOG_SUBSCRIBE"]=="Y" /*&& $arNotify[SITE_ID]['use'] == 'Y'*/):?>													
+													<a class="basket_button to-subscribe<?if (!$USER->IsAuthorized()):?> auth<?endif;?>" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["SUBSCRIBE_URL"]?>" alt="<?=$arItem["NAME"]?>">
+														<i></i><span><?=GetMessage('CATALOG_SUBSCRIBE')?></span>
+													</a>
+													<a class="basket_button in-subscribe" rel="nofollow" data-item="<?=$arItem["ID"]?>" style="display:none;" alt="<?=$arItem["NAME"]?>">
+														<i></i><span><?=GetMessage('CATALOG_IN_SUBSCRIBE')?></span>
+													</a>
+												<?endif;?>
+											<!--/noindex-->
+										</span>  
+									</div>
+								</div>
+							</div>
+						<!--adaptive properties end-->
+					</td>
+					
+					<?if ($arParams["SHOW_QUANTITY"]=="Y"):?>
+						<td class="availability-row">
+							<div class="label">
+								<?if($totalCount > 0){?>
+									<span class="indicators" title="<?=($amount ? $amount : GetMessage("CT_IS_AVAILABLE"))?>">
+										<?for($i=1;$i<=3;$i++){?>
+											<span class="<?=(($indicators) >=$i) ? 'r' : ''?><?=($i==1) ? ' first' : ''?><?=($i==3) ? ' last' : ''?>"></span>
+										<?}?>
+									</span>
+									<span class="value" title="<?=($amount ? $amount : GetMessage("CT_IS_AVAILABLE"))?>"><?//=GetMessage("CT_IS_AVAILABLE")?> <?if ($arParams["SHOW_QUANTITY_COUNT"]!="N"):?>(<?=$totalCount?>)<?endif;?></span>
+								<?} else { ?>
+									<span class="indicators no_products" title="<?=GetMessage("DONT_AVAILABLE")?>"><span></span></span>
+									<?/*span class="value"><?=GetMessage("DONT_AVAILABLE")?></span>*/?>
+								<?}?>
+							</div>
+						</td>
+					<?endif;?>
+										
+					<td class="price-cell">
+						<?$count_in_stores = 0;?>
+						<?if( $arItem["OFFERS"]){?> 
+							<?foreach( $arItem["OFFERS"] as $arOffer ){$count_in_stores += $arOffer["CATALOG_QUANTITY"];}?>
+								<div class="cost">
+									<div class="price"><?=GetMessage("FROM")?> <?=$arItem["MIN_PRODUCT_OFFER_PRICE_PRINT"]?></div>
+								</div>
+						<?} elseif ( $arItem["PRICES"] ){?>
+							<?	
+								$count_in_stores = $arItem["CATALOG_QUANTITY"];
+								$arCountPricesCanAccess = 0;
+								foreach( $arItem["PRICES"] as $key => $arPrice ) { if($arPrice["CAN_ACCESS"]){$arCountPricesCanAccess++;} }
+							?>
+							<?foreach( $arItem["PRICES"] as $key => $arPrice ){?>
+								<?if( $arPrice["CAN_ACCESS"] ){?>
+									<?$price = CPrice::GetByID($arPrice["ID"]); ?>
+									<div class="cost">
+										<?if($arCountPricesCanAccess>1):?><div class="price_name"><?=$price["CATALOG_GROUP_NAME"];?></div><?endif;?>
+										<?if( $arPrice["VALUE"] > $arPrice["DISCOUNT_VALUE"] ){?>
+											<div class="price"><?=$arPrice["PRINT_DISCOUNT_VALUE"]?></div>
+											<div class="price discount"><strike><?=$arPrice["PRINT_VALUE"]?></strike></div>
+										<?}else{?><div class="price"><?=$arPrice["PRINT_VALUE"]?></div><?}?>
+									</div>
+								<?}?>
+							<?}?>				
+						<?}?>
+					</td>
+					
+					<?if($arParams["USE_PRODUCT_QUANTITY"]=="Y"):?>
+						<td class="quantity-cell">
+							<?if (!count($arItem["OFFERS"]) && $arItem["CAN_BUY"] ){?>
+								<div class="counter_block" data-item="<?=$arResult["ID"];?>">
+									<span class="minus">-</span>
+									<input type="text" class="text" name="count_items" value="<?=$arParams["DEFAULT_COUNT"]?>">
+									<span class="plus">+</span>
+								</div>
+							<?}?>
+						</td>
+					<?endif;?>
+						
+					<td class="but-cell item_<?=$arItem["ID"]?>">					
+						<!--noindex-->
+							<?if(count($arItem["OFFERS"])):?>
+								<a class="basket_button read_more" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["DETAIL_PAGE_URL"]?>">
+									<i></i><span><?=GetMessage('CATALOG_READ_MORE')?></span>
+								</a>
+							<?elseif( $arItem["CAN_BUY"] ):?>
+								<a class="basket_button to-cart" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["ADD_URL"]?>" data-quantity="<?=($arItem["CATALOG_QUANTITY"]>=intval($arParams["DEFAULT_COUNT"])) ? intval($arParams["DEFAULT_COUNT"]): $arItem["CATALOG_QUANTITY"]; ?>" alt="<?=$arItem["NAME"]?>">
+									<i></i><span><?=GetMessage('CATALOG_ADD')?></span>
+								</a>
+								<a href="<?=$arParams["BASKET_URL"]?>" data-item="<?=$arItem["ID"]?>" class="basket_button in-cart" rel="nofollow" style="display:none;">
+									<i></i><span><?=GetMessage("CATALOG_ADDED");?></span>
+								</a>
+							<?elseif($arItem["CATALOG_SUBSCRIBE"]=="Y" /*&& $arNotify[SITE_ID]['use'] == 'Y'*/):?>
+								<a class="basket_button to-subscribe<?if (!$USER->IsAuthorized()):?> auth<?endif;?>" rel="nofollow" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["ADD_URL"]?>" alt="<?=$arItem["NAME"]?>">
+									<i></i><span><?=GetMessage('CATALOG_SUBSCRIBE')?></span>
+								</a>
+								<a class="basket_button in-subscribe" rel="nofollow" style="display:none;" data-item="<?=$arItem["ID"]?>" alt="<?=$arItem["NAME"]?>">
+									<i></i><span><?=GetMessage('CATALOG_IN_SUBSCRIBE')?></span>
+								</a>
+							<?endif;?>
+						<!--/noindex-->
+					</td>  
+					<?if (($arParams["DISPLAY_WISH_BUTTONS"]!="N")||($arParams["DISPLAY_COMPARE"]=="Y")):?>
+						<td class="like_icons<?if(($arParams["DISPLAY_WISH_BUTTONS"]!="N")&&($arParams["DISPLAY_COMPARE"]=="Y")):?> full<?endif;?>">
+							<?if( empty($arItem["OFFERS"]) && $arItem["CAN_BUY"] && ($arParams["DISPLAY_WISH_BUTTONS"]!="N")){?>
+								<a title="<?=GetMessage('CATALOG_WISH')?>" class="wish_item" rel="nofollow" data-item="<?=$arItem["ID"]?>"><i></i></a>
+							<?}?>								
+							<?if($arParams["DISPLAY_COMPARE"]=="Y"){?>
+								<a title="<?=GetMessage('CATALOG_COMPARE')?>" class="compare_item" rel="nofollow" data-iblock="<?=$arParams["IBLOCK_ID"]?>" data-item="<?=$arItem["ID"]?>" href="<?=$arItem["COMPARE_URL"]?>"><i></i></a>
+							<?}?>
+						</div>
+					<?endif;?>
+				</tr>
+			<?}?>
+		</tbody>
+	</table>
+	<div class="bottom_nav">
+		<?if( $arParams["DISPLAY_BOTTOM_PAGER"] == "Y" ){?><?=$arResult["NAV_STRING"]?><?}?>
+		<?
+			$show=$arParams["PAGE_ELEMENT_COUNT"];
+			if (array_key_exists("show", $_REQUEST))
+			{
+				if ( intVal($_REQUEST["show"]) && in_array(intVal($_REQUEST["show"]), array(20, 40, 60, 80, 100)) ) {$show=intVal($_REQUEST["show"]); $_SESSION["show"] = $show;}
+				elseif ($_SESSION["show"]) {$show=intVal($_SESSION["show"]);}
+			}
+		?>
+		<div class="show_number">
+			<span class="show_title"><?=GetMessage("CATALOG_DROP_TO")?></span>
+			<span class="number_list">
+				<?for( $i = 20; $i <= 100; $i+=20 ){?>
+					<a rel="nofollow" <?if ($i == $show):?>class="current"<?endif;?> href="<?=$APPLICATION->GetCurPageParam('show='.$i, array('show', 'mode'))?>"><span><?=$i?></span></a>
+				<?}?>
+			</span>
+		</div>
+	</div>
+<?}else{?>
+	<p class="no_products"><?$APPLICATION->IncludeFile(SITE_DIR."include/section_no_products.php", Array(), Array("MODE" => "html",  "NAME" => GetMessage('EMPTY_CATALOG_DESCR')));?></p>
+	<?$APPLICATION->IncludeComponent(
+		"bitrix:catalog.section.list",
+		"sections_list",
+		Array(
+			"IBLOCK_TYPE" => $arParams["IBLOCK_TYPE"],
+			"IBLOCK_ID" => $arParams["IBLOCK_ID"],
+			"CACHE_TYPE" => $arParams["CACHE_TYPE"],
+			"CACHE_TIME" => $arParams["CACHE_TIME"],
+			"CACHE_GROUPS" => $arParams["CACHE_GROUPS"],
+			"COUNT_ELEMENTS" => $arParams["SECTION_COUNT_ELEMENTS"],
+			"TOP_DEPTH" => 2,
+			"SECTION_URL" => $arResult["FOLDER"].$arResult["URL_TEMPLATES"]["section"],
+			"SHOW_SECTIONS_LIST_PREVIEW" => "N",
+			"SECTIONS_LIST_PREVIEW_PROPERTY" => $arParams["SECTIONS_LIST_PREVIEW_PROPERTY"],
+			"SHOW_SECTION_LIST_PICTURES" => $arParams["SHOW_SECTION_LIST_PICTURES"],
+		), $component
+	);?>
+<?}?>
+<?if ($arResult["~DESCRIPTION"]):?>
+	<div class="group_description">
+		<img class="shadow" src="<?=SITE_TEMPLATE_PATH?>/images/shadow_bottom.png" />
+		<div><?=$arResult["~DESCRIPTION"]?></div>
+	</div>
+<?else:?>
+	<?$arSection = CIBlockSection::GetList(array(), array( "IBLOCK_ID" => $arResult["IBLOCK_ID"], "ID" => $arResult["ID"] ), false, array( "ID", "UF_SECTION_DESCR"))->GetNext();?>
+	<?if ($arSection["UF_SECTION_DESCR"]):?>
+		<div class="group_description">
+			<img class="shadow" src="<?=SITE_TEMPLATE_PATH?>/images/shadow_bottom.png" />
+			<div><?=$arSection["UF_SECTION_DESCR"]?></div>
+		</div>
+	<?endif;?>
+<?endif;?>

@@ -1,0 +1,17 @@
+tar -czf radiokanal_n.tar.gz radiokanal.bi3x.org --exclude=radiokanal.bi3x.org/upload --exclude=radiokanal.bi3x.org/bitrix/cache
+#tar -czf radiokanal_n.tar.gz radiokanal.bi3x.org --exclude=radiokanal.bi3x.org/bitrix/cache
+scp radiokanal_n.tar.gz bitrix@79.174.64.121:~/backup/
+rsync -a radiokanal.bi3x.org/upload/ bitrix@79.174.64.121:~/www/upload/
+head ../../radiokanal.bi3x.org/bitrix/php_interface/dbconn.php
+mysqldump -u u_radiokanal -p db_radiokanal > dump_dev_16_12_2014.sql
+
+#tar -xf radiokanal_n.tar.gz
+#mysql -u u_radiokanal -p radiokanal < dump_dev_16_12_2014.sql
+
+### MYSQL ###
+#CREATE USER 'username'@'localhost' IDENTIFIED BY 'userpass';
+#CREATE DATABASE db_name;
+#GRANT ALL PRIVILEGES ON db_name.* TO 'username'@'localhost';
+
+### SPHINX ###
+# indexer -c /usr/local/sphinx/etc/sphinx.conf --all

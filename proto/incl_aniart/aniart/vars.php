@@ -1,0 +1,11 @@
+<?
+define("IBLOCK_PRODUCT_ID", 1);
+define("IBLOCK_OFFERS_ID", 2);
+define('IBLOCK_ROYAL_SLIDER_ID', 3);	
+define("IBLOCK_ARTICLES_ID", 4);
+define("IBLOCK_STORIES_ID", 5);
+define('IBLOCK_COLORS_ID', 6);
+define('IBLOCK_SLIDER_SPECIAL_OFFERS', 9);
+
+define('SUBSCRIBE_ID', 1);
+?>

@@ -1,0 +1,69 @@
+.f_brands {
+    display: inline-block;
+    margin: 2px 0;
+    width: 270px;
+}
+h2.brand-filter-name {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-indent: 20px;
+    text-transform: uppercase;
+}
+ul.bl_sub li.f_brands label span {
+    background: url("/_tpln/img/chekbox.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    float: left;
+    height: 15px;
+    margin-right: 7px;
+    width: 15px;
+}
+ul.bl_sub li.f_brands label p { text-decoration: underline; color: #DF1515; }
+ul.bl_sub li.f_brands label span input[type="checkbox"] {
+    cursor: pointer;
+    height: 15px;
+    margin: 0;
+    opacity: 0;
+    width: 15px;
+}
+ul.bl_sub li.f_brands label span.chek {
+    background: url("/_tpln/img/cheks.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+ul.bl_sub li.f_brands label {
+    cursor: pointer;
+}
+div.show-all-brands + input[type="submit"] {
+    background: url("/_tpln/img/all_save.png") no-repeat scroll 0 0 #df1515;
+    border: medium none;
+    box-shadow: 0 1px 0 #ccc;
+    color: #ffffff;
+    cursor: pointer;
+    display: block;
+    font-family: tahoma;
+    font-size: 12px;
+    height: 24px;
+    margin: 10px auto;
+    padding-left: 28px;
+    text-align: center;
+    text-decoration: none;
+    width: 195px;
+    float: left;
+}
+div.show-all-brands{ margin: 10px 0 0 0; }
+div.clear-all-brands{
+    margin:10px auto;
+    margin-left: 500px;
+}
+div.clear-all-brands a{
+    background-color: #373737;
+    color: white;
+    display: block;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+}
+div.clear-all-brands a{
+    background-color: #d4d4d4;
+    color: #df1515;
+    width: 200px;
+}

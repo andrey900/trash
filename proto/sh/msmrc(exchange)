@@ -1,0 +1,14 @@
+account default
+auth ntlm
+tls on
+#keepbcc on
+tls_starttls on
+tls_certcheck off
+logfile /home/bitrix/msmtp.log
+host       mail.gkshield.ru
+ntlmdomain mail.gkshield.ru
+port       587
+from       zakaz@radio-shop.ru
+user       radioshop
+password   753951QWErty
+

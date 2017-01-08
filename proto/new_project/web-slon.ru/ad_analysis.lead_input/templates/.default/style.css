@@ -1,0 +1,28 @@
+form.promocode-lead-input .fio{
+	width: 250px;
+}
+
+form.promocode-lead-input .phone{
+	width: 150px;
+}
+
+form.promocode-lead-input .email{
+	width: 150px;
+}
+
+form.promocode-lead-input .promocode{
+	width: 100px;
+}
+
+form.promocode-lead-input .error{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 30px;
+}
+form.promocode-lead-input .success{
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 30px;
+}

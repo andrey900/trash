@@ -1,0 +1,598 @@
+Host: 
+Date: 2014-07-02 17:24:32
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:25:11
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 1 из 1 элементов.Обработано 1 из 1 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:25:18
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Обработано 0 из 0 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:25:18
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:25:18
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 1 из 1 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:25:18
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:30:07
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:30:07
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 1 из 1 элементов.Обработано 1 из 1 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:30:07
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-02 17:30:08
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:30:08
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 1 из 1 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:30:09
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-02 17:38:07
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 181 из 181 элементов.Обработано 181 из 181 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 07:11:25
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 181 из 181 элементов.Обработано 181 из 181 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:17:56
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:17:56
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:17:56
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:17:56
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:17:57
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:89
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:30:02
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:30:03
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:30:04
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:30:05
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:30:05
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:31:34
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:31:34
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:31:34
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:31:35
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:31:35
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:46:42
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:46:42
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:46:43
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:46:43
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:46:43
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:47:48
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:47:49
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-03 16:47:49
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Загрузка элементов завершена.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:47:49
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-03 16:47:49
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 6 из 6 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:104
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-04 07:11:20
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 181 из 181 элементов.Обработано 181 из 181 элементов.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:105
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-07 18:18:18
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 3 из 3 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-07 18:18:30
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 209 из 209 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-07 18:18:32
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 42 из 42 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:109
+----------
+Host: 
+Date: 2014-07-07 18:18:33
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 3 из 3 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-07 18:18:37
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 209 из 209 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------
+Host: 
+Date: 2014-07-07 18:18:38
+Module: Aniart import agent
+
+progress
+Временные таблицы удалены.Временные таблицы созданы.Файл импорта прочитан.Временные таблицы проиндексированы.Метаданные импортированы успешно.Группы импортированы.Деактивация/удаление групп завершено.Обработано 42 из 42 элементов.Деактивация/Удаление элементов завершены.
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent < CCustomImport1C::Execute
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:471
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/component.php:513
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/bitrix/modules/main/classes/general/main.php:2117
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/include/_import_from_1c.php:108
+	/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php:110
+----------

@@ -1,0 +1,46 @@
+.price-sections{
+	margin-top: 10px;
+}
+.price-select-all
+,.price-toggle-all
+{
+	display: inline-block;
+	padding: 5px;
+	cursor: pointer;
+	color: #fff;
+	background: #FF8D28;
+}
+.price-sections .level-1{
+	font-weight: 700;	
+}
+.same-page-link{
+	text-decoration: none;
+	border-bottom: 1px dashed;
+}
+.show-subsections{
+	display: inline-block;
+	/*width: 12px;
+	height: 7px;
+	background: url('images/strelka_bot.png');*/
+	color: #737373;
+	font-size: 90%;
+	cursor: pointer;
+}
+.child-level{
+	display: none;
+	margin-left: 15px;
+}
+.form-ownership{
+	display: none;
+}
+[name=get-price]
+{
+	background: #FF8D28;
+	color: #fff;
+}
+.price-plus-minus{
+	color: #f00;
+}
+.price-toggle{
+	border-bottom: 1px dashed #f00;
+}

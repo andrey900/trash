@@ -1,0 +1,15 @@
+
+function sendForm(obj,repclock,action)
+{
+
+        var dataForm=obj.serializeArray();
+        $.post(
+            action,
+            dataForm,
+            function(data)
+            {
+                $(repclock).replaceWith(data);
+            }
+        );
+return false;
+}

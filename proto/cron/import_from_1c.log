@@ -1,0 +1,248 @@
+[bash] Срд Июл  2 17:23:14 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__17_15_00.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__17_15_00.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Срд Июл  2 17:30:06 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__17_15_00.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__17_15_00.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Срд Июл  2 17:38:01 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__07_05_34.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_02__07_05_34.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[bash] Обнаружен PID-файл.
+[bash] Удаляем и запускаем заново скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Чтв Июл  3 07:10:01 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[bash] Обнаружен PID-файл.
+[bash] Удаляем и запускаем заново скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Чтв Июл  3 16:16:33 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Чтв Июл  3 16:30:01 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[php] Импорт запущен.
+[php] Импорт запущен.
+[php] Импорт запущен.
+[bash] Чтв Июл  3 16:46:42 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Чтв Июл  3 16:47:48 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_03__07_05_57.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Птн Июл  4 07:10:01 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_04__07_05_45.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_04__07_05_45.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 2 минут
+[bash] Обнаружен PID-файл.
+[bash] Удаляем и запускаем заново скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Пнд Июл  7 18:17:01 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_07__18_12_23.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/2014_07_07__18_12_23.zip в архив.
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 60 минут
+[php] Импорт запущен.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import1.xml
+[php] Выгрузка полная.
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/import2.xml
+[php] Выгрузка полная.
+[php] Обновляем курс валют. Валюта: EUR. Курс: 16.46204
+[php] Обновляем курс валют. Валюта: UAH. Курс: 1
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers.xml
+[php] Выгрузка полная.
+[php] Обновляем курс валют. Валюта: EUR. Курс: 16.46204
+[php] Обновляем курс валют. Валюта: UAH. Курс: 1
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers1.xml
+[php] Выгрузка полная.
+[php] Обновляем курс валют. Валюта: EUR. Курс: 16.46204
+[php] Обновляем курс валют. Валюта: UAH. Курс: 1
+[php] Импортируем файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog/offers2.xml
+[php] Выгрузка полная.
+[php] Импорт завершен.
+[php] Удаляем pid-файл.
+[bash] Срд Авг 13 12:18:47 EEST 2014
+[bash] Обнаружен архив [/var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/region_correct.zip] в каталоге для обмена данными.
+[bash] Тестируем архив на целостность.
+[bash] Целостность архива подтверждена. Переходим к обработке.
+[bash] Удаляем xml-файлы.
+[bash] Распаковываем архив.
+[bash] Переносим файл /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/region_correct.zip в архив /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/../upload/1c_catalog/archive/20140813
+[bash] Запускаем скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php
+[bash] Обнаружен PID-файл.
+[bash] Скрипт /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/cron/import_from_1c.php выполняется и время жизни PID-файла ещё не превысило установленный лимит в 60 минут
+[php] Нет xml-файлов для выгрузки в /var/www/lappukraine/data/www/lappukraine.bitrixserver.com/upload/1c_catalog
+[php] Удаляем pid-файл.

@@ -1,0 +1,31 @@
+table tbody td{
+	border: 1px solid #ccc;
+	padding: 3px;
+}
+table tr > td > input[type="text"]{ border: 1px solid #aaf; }
+input.green{
+	color: green;
+}
+.full-name, .short-name{
+	line-height: 20px;
+}
+#textareaFeedback.warning{
+	color: #f88;
+}
+.content-box{
+	position: relative;
+}
+#textareaFeedback{
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 10px;
+    left: 10%;
+    padding: 10px;
+    position: fixed;
+    text-align: center;
+    width: 300px;
+    color: white;
+    z-index: 100;
+    box-shadow: 2px 2px 5px #999;
+    border-radius: 3px;
+}
+option.sbold{ font-weight: bold; }

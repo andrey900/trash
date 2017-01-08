@@ -1,0 +1,9 @@
+         sql_query                               = \
+            SELECT T.ID, T.IBLOCK_ID, T.IBLOCK_SECTION_ID, T.NAME, T.TIMESTAMP_X, P1.PROPERTY_20 AS ARTICLE \
+            FROM `b_iblock_element` T \
+            INNER JOIN  b_iblock_element_prop_s1 P1 \
+                ON T.ID = P1.IBLOCK_ELEMENT_ID \
+            UNION \
+                SELECT T.ID, T.IBLOCK_ID, T.IBLOCK_SECTION_ID, T.NAME, T.TIMESTAMP_X, NULL AS ARTICLE  \
+                FROM `b_iblock_element` T \
+                WHERE ACTIVE = "Y" 
