@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Бренды", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Arte Lamp", 
+		"/arte-lamp/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Citilux", 
+		"/citilux/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Donolux", 
+		"/donolux/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Lightstar", 
+		"/lightstar/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Lussole", 
+		"/lussole/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Все бренды", 
+		"/brands/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

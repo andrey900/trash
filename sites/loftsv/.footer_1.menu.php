@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Каталог", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Бра", 
+		"/bra/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Подвесные", 
+		"/podvesnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Потолочные", 
+		"/potolochnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Настольные лампы", 
+		"/nastolnye-lampy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Торшеры", 
+		"/torshery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	array(
+		"Уличное освещение",
+		"/ulichnoe-osveshchenie/",
+		Array(),
+		Array(),
+		""
+	)
+);
+?>

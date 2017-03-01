@@ -1,0 +1,545 @@
+{ "name": "001-32W-4000K Панель LED подвесная 600*600*21mm", "article": "UPL-001-32W-4000K-600*600", "brand": "Elvan", "price": 1150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-12W-3000K Cветильник круглый LED, 12W", "article": "VLS-102R-12WW", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-12W-4000K Cветильник круглый LED, 12W", "article": "VLS-102R-12NH", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-12W-6000K Cветильник круглый LED, 12W", "article": "VLS-102R-12WH", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-18W-3000K Cветильник круглый LED, 18W", "article": "VLS-102R-18WW", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-18W-4000K Cветильник круглый LED, 18W", "article": "VLS-102R-18NH", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-18W-6000K Cветильник круглый LED, 18W", "article": "VLS-102R-18WH", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-3W-3000K Cветильник круглый LED, 3W", "article": "VLS-102R-3WW", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-3W-4000K Cветильник круглый LED, 3W", "article": "VLS-102R-3NH", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-3W-6000K Cветильник круглый LED, 3W", "article": "VLS-102R-3WH", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-6W-3000K Cветильник круглый LED, 6W", "article": "VLS-102R-6WW", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-6W-4000K Cветильник круглый LED, 6W", "article": "VLS-102R-6NH", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102R-6W-6000K Cветильник круглый LED, 6W", "article": "VLS-102R-6WH", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-12W-3000K Cветильник квадратный LED, 12W", "article": "VLS-102SQ-12WW", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-12W-4000K Cветильник квадратный LED, 12W", "article": "VLS-102SQ-12NH", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-12W-6000K Cветильник квадратный LED, 12W", "article": "VLS-102SQ-12WH", "brand": "Elvan", "price": 495, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-18W-3000K Cветильник квадратный LED, 18W", "article": "VLS-102SQ-18WW", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-18W-4000K Cветильник квадратный LED, 18W", "article": "VLS-102SQ-18NH", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-18W-6000K Cветильник квадратный LED, 18W", "article": "VLS-102SQ-18WH", "brand": "Elvan", "price": 740, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-3W-3000K Cветильник квадратный LED, 3W", "article": "VLS-102SQ-3WW", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-3W-4000K Cветильник квадратный LED, 3W", "article": "VLS-102SQ-3NH", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-3W-6000K Cветильник квадратный LED, 3W", "article": "VLS-102SQ-3WH", "brand": "Elvan", "price": 260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-6W-3000K Cветильник квадратный LED, 6W", "article": "VLS-102SQ-6WW", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-6W-4000K Cветильник квадратный LED, 6W", "article": "VLS-102SQ-6NH", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "102SQ-6W-6000K Cветильник квадратный LED, 6W", "article": "VLS-102SQ-6WH", "brand": "Elvan", "price": 290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "300*1200-(2835)-40W-2700-3000K-3200LM-W  Панель LED подвесная", "article": "PS30120JW-AL01-40W WW", "brand": "Elvan", "price": 2500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "300*600-(2835)-40W-2700-3000K-3200LM-W  Панель LED подвесная", "article": "PS3060JW-AL01-40W WW", "brand": "Elvan", "price": 1700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308R-12W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308R-12W-NH", "brand": "Elvan", "price": 1550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308R-18W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308R-18W-NH", "brand": "Elvan", "price": 1960, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308R-25W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308R-25W-NH", "brand": "Elvan", "price": 2460, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308SQ-12W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308SQ-12W-NH", "brand": "Elvan", "price": 1550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308SQ-18W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308SQ-18W-NH", "brand": "Elvan", "price": 1960, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308SQ-25W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308SQ-25W-NH", "brand": "Elvan", "price": 2460, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "308SQ-8W-4000K Встраиваемый светодиодный светильник (Нейтральный свет)", "article": "VLS-308SQ-8W-NH", "brand": "Elvan", "price": 1260, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*600-32W-4000K Панель LED подвесная", "article": "32W-4000K-600*600", "brand": "Elvan", "price": 1900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*600-36W-4000K Панель LED подвесная", "article": "UPL-36W-4000K-600*600", "brand": "Elvan", "price": 1400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*600-36W-4000K Панель LED подвесная белый контур", "article": "UPL-36W-4000K-600*600 WH", "brand": "Elvan", "price": 2500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*600-36W-6000K Панель LED подвесная", "article": "UPL-36W-6000K-600*600", "brand": "Elvan", "price": 1400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Комплект креплений светодиодной панели", "article": "Acsr-01", "brand": "Elvan", "price": 660, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Трос для светодиодной панели", "article": "Acsr-02", "brand": "Elvan", "price": 490, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-14W-3000K Светильник встраиваемый,круглый,со стеклом,LED-подсветка,14W", "article": "VLS-701R-14W-WW", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-14W-4000K Светильник встраиваемый,круглый,со стеклом,LED-подсветка,14W", "article": "VLS-701R-14W-NH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-18W-3000K Светильник встраиваемый,круглый,со стеклом,LED-подсветка,18W", "article": "VLS-701R-18W-WW", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-18W-6000K Светильник встраиваемый,круглый,со стеклом,LED-подсветка,18W", "article": "VLS-701R-18W-WH", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-9W-3000K Светильник встраиваемый,круглый,со стеклом,LED-подсветка,9W", "article": "VLS-701R-9W-WW", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701R-9W-4000K GREEN Светильник встраиваемый,круглый,со стеклом,LED-подсветка,9W", "article": "VLS-701R-9W-NH-GR", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-14W-3000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,14W", "article": "VLS-701SQ-14W-WW", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-14W-6000K Светильник встраиваемый, квадратный со стеклом, LED-подсветка,14W", "article": "VLS-701SQ-14W-WH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-18W-3000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,18W", "article": "VLS-701SQ-18W-WW", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-18W-4000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,18W", "article": "VLS-701SQ-18W-NH", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-18W-6000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,18W", "article": "VLS-701SQ-18W-WH", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-9W-3000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,9W", "article": "VLS-701SQ-9W-WW", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "701SQ-9W-6000K Светильник встраиваемый,квадратный,со стеклом,LED-подсветка,9W", "article": "VLS-701SQ-9W-WH", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703R-10W-3000K Светильник встраиваемый,круглый,со стеклом,LED,10W", "article": "VLS-703R-10W-WW", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703R-10W-4000K Светильник встраиваемый,круглый,со стеклом,LED,10W", "article": "VLS-703R-10W-NH", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703R-15W-3000K Светильник встраиваемый,круглый,со стеклом,LED,15W", "article": "VLS-703R-15W-WW", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703R-15W-4000K Светильник встраиваемый,круглый,со стеклом,LED,15W", "article": "VLS-703R-15W-NH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-10W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,10W", "article": "VLS-703SQ-10W-WW", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-10W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,10W", "article": "VLS-703SQ-10W-NH", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-15W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,15W", "article": "VLS-703SQ-15W-WW", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-15W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,15W", "article": "VLS-703SQ-15W-NH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-6W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,6W", "article": "VLS-703SQ-6W-WW", "brand": "Elvan", "price": 400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "703SQ-6W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,6W", "article": "VLS-703SQ-6W-NH", "brand": "Elvan", "price": 400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-12W-3000K Светильник встраиваемый,круглый,со стеклом,LED,12W", "article": "VLS-705R-12W-WW", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-12W-4000K Светильник встраиваемый,круглый,со стеклом,LED,12W", "article": "VLS-705R-12W-NH", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-12W-6000K Светильник встраиваемый,круглый,со стеклом,LED,12W", "article": "VLS-705R-12W-WH", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-18W-3000K Светильник встраиваемый,круглый,со стеклом,LED,18W", "article": "VLS-705R-18W-WW", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-18W-4000K Светильник встраиваемый,круглый,со стеклом,LED,18W", "article": "VLS-705R-18W-NH", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-18W-6000K Светильник встраиваемый,круглый,со стеклом,LED,18W", "article": "VLS-705R-18W-WH", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-6W-3000K Светильник встраиваемый,круглый,со стеклом,LED,6W", "article": "VLS-705R-6W-WW", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-6W-4000K Светильник встраиваемый,круглый,со стеклом,LED,6W", "article": "VLS-705R-6W-NH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705R-6W-6000K Светильник встраиваемый,круглый,со стеклом,LED,6W", "article": "VLS-705R-6W-WH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-12W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,12W", "article": "VLS-705SQ-12W-WW", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-12W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,12W", "article": "VLS-705SQ-12W-NH", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-12W-6000K Светильник встраиваемый,квадратный,со стеклом,LED,12W", "article": "VLS-705SQ-12W-WH", "brand": "Elvan", "price": 690, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-18W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,18W", "article": "VLS-705SQ-18W-WW", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-18W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,18W", "article": "VLS-705SQ-18W-NH", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-18W-6000K Светильник встраиваемый,квадратный,со стеклом,LED,18W", "article": "VLS-705SQ-18W-WH", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-6W-3000K Светильник встраиваемый,квадратный,со стеклом,LED,6W", "article": "VLS-705SQ-6W-WW", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-6W-4000K Светильник встраиваемый,квадратный,со стеклом,LED,6W", "article": "VLS-705SQ-6W-NH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "705SQ-6W-6000K Светильник встраиваемый,квадратный,со стеклом,LED,6W", "article": "VLS-705SQ-6W-WH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "304-RD-12+4 Светильник LED", "article": "VLS-304-RD-12+4", "brand": "Elvan", "price": 999, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "304-RD-3+2 Светильник LED", "article": "VLS-304-RD-3+2", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "304-SQ-12+4 Светильник LED", "article": "VLS-304-SQ-12+4", "brand": "Elvan", "price": 999, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "304-SQ-3+2 Светильник LED", "article": "VLS-304-SQ-3+2", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "306R-5W-3000K Потолочный светильник (Теплый свет)", "article": "VLS-306R-5W-WW", "brand": "Elvan", "price": 300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "306R-5W-4000K Потолочный светильник (Нейтральный свет)", "article": "VLS-306R-5W-NH", "brand": "Elvan", "price": 300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "306SQ-5W-3000K Потолочный светильник (Теплый свет)", "article": "VLS-306SQ-5W-WW", "brand": "Elvan", "price": 300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "306SQ-5W-4000K Потолочный светильник (Нейтральный свет)", "article": "VLS-306SQ-5W-NH", "brand": "Elvan", "price": 300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048R-16W-3000K Светильник LED", "article": "VLS-5048R-16W-WW", "brand": "Elvan", "price": 1590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048R-16W-4000K Светильник LED", "article": "VLS-5048R-16W-NH", "brand": "Elvan", "price": 1590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048R-24W-3000K Светильник LED", "article": "VLS-5048R-24W-WW", "brand": "Elvan", "price": 1950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048R-24W-4000K Светильник LED", "article": "VLS-5048R-24W-NH", "brand": "Elvan", "price": 1950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048R-8W-4000K Светильник LED", "article": "VLS-5048R-8W-NH", "brand": "Elvan", "price": 1060, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048SQ-16W-3000K Светильник LED", "article": "VLS-5048SQ-16W-WW", "brand": "Elvan", "price": 1590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048SQ-24W-3000K Светильник LED", "article": "VLS-5048SQ-24W-WW", "brand": "Elvan", "price": 1950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048SQ-24W-4000K Светильник LED", "article": "VLS-5048SQ-24W-NH", "brand": "Elvan", "price": 1950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048SQ-8W-3000K Светильник LED", "article": "VLS-5048SQ-8W-WW", "brand": "Elvan", "price": 1060, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5048SQ-8W-4000K Светильник LED", "article": "VLS-5048SQ-8W-NH", "brand": "Elvan", "price": 1060, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "700R-12W-4000K Светильник встраиваемый,круглый,LED,12W", "article": "VLS-700R-12W-NH", "brand": "Elvan", "price": 800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "700R-6W-3000К Светильник встраиваемый 3000 6W 85*35 Cut*90", "article": "700-6 3000K", "brand": "Elvan", "price": 650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "700R-6W-4000К Светильник встраиваемый 4000 6W 85*35 Cut*90", "article": "700-6 4000K", "brand": "Elvan", "price": 650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "700R-8W-3000K Светильник встраиваемый,круглый, LED, 8W", "article": "VLS-700R-8W-WW", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "700R-8W-4000K Светильник встраиваемый,круглый, LED,8W", "article": "VLS-700R-8W-NH", "brand": "Elvan", "price": 680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "704SQ-10-3000K Светильник встраиваемый,квадратный,LED,10W", "article": "VLS-704SQ-10W-WW", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "704SQ-15-3000K Светильник встраиваемый,квадратный,LED,15W", "article": "VLS-704SQ-15W-WW", "brand": "Elvan", "price": 800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-10W-3000K Светильник встраиваемый,круглый,LED,10W", "article": "VLS-7480R-10W-WW", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-10W-4000K Светильник встраиваемый,круглый,LED,10W", "article": "VLS-7480R-10W-NH", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-10W-6000K Светильник встраиваемый,круглый,LED,10W", "article": "VLS-7480R-10W-WH", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-15W-3000K Светильник встраиваемый,круглый,LED,15W", "article": "VLS-7480R-15W-WW", "brand": "Elvan", "price": 1190, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-15W-4000K Светильник встраиваемый,круглый,LED,15W", "article": "VLS-7480R-15W-NH", "brand": "Elvan", "price": 1190, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-15W-6000K Светильник встраиваемый,круглый,LED,15W", "article": "VLS-7480R-15W-WH", "brand": "Elvan", "price": 1190, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-20W-3000K Светильник встраиваемый,круглый,LED,20W", "article": "VLS-7480R-20W-WW", "brand": "Elvan", "price": 1250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-20W-4000K Светильник встраиваемый,круглый,LED,20W", "article": "VLS-7480R-20W-NH", "brand": "Elvan", "price": 1250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-6W-4000K Светильник встраиваемый,круглый,LED,6W", "article": "VLS-7480R-6W-NH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "7480-6W-6000K Светильник встраиваемый,круглый,LED,6W", "article": "VLS-7480R-6W-WH", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Светильник встраиваемый круглый 4200К 5W 450Lum", "article": "Q-3.5C-5W 4200K", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Светильник встраиваемый поворотный круглый 3000К 6,5W 540Lum", "article": "Q3X 3000К", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "500-RD-12+4 Светильник накладной LED", "article": "NLS-500-RD-12+4", "brand": "Elvan", "price": 1490, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "500-RD-6+3 Светильник накладной LED", "article": "NLS-500-RD-6+3", "brand": "Elvan", "price": 1190, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "500-SQ-6+3 Светильник накладной LED", "article": "NLS-500-SQ-6+3", "brand": "Elvan", "price": 1190, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "525R-16W-4000K Светодиодный светильник накладной круглый", "article": "NLS-525R-16W-NH", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "525SQ-16W-4000K Светодиодный светильник накладной квадрат", "article": "NLS-525SQ-16W-NH", "brand": "Elvan", "price": 1700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-02-16W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-02-16W-WH", "brand": "Elvan", "price": 700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-02-32W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-02-32W-WH", "brand": "Elvan", "price": 1200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-05-16W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-05-16W-WH", "brand": "Elvan", "price": 800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-05-32W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-05-32W-WH", "brand": "Elvan", "price": 1380, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-07-16W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-07-16W-WH", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "543-07-32W-6000K Накладной светодиодный светильник (Нейтральный свет)", "article": "NLS-543-07-32W-WH", "brand": "Elvan", "price": 880, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "561-18W Светодиодный светильник для парковок (нейтрайльный свет)", "article": "NLS-561-18W-NH", "brand": "Elvan", "price": 1050, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "561-36W Светодиодный светильник для парковок (нейтрайльный свет)", "article": "NLS-561-36W-NH", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "583-16W-4000K Светодиодный светильник накладной, круглый", "article": "NLS-583-16W-NH", "brand": "Elvan", "price": 1150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "584 Светильник накладной,круглый,LED,30W(Нейтральный свет) корпус белый", "article": "NLS-584-30W-NH white", "brand": "Elvan", "price": 2920, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-12W-3000K Светильник накладной,круглый,LED,12W", "article": "NLS-702R-12W-WW", "brand": "Elvan", "price": 700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-12W-4000K Светильник накладной,круглый,LED,12W", "article": "NLS-702R-12W-NH", "brand": "Elvan", "price": 700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-18W-3000K Светильник накладной,круглый,LED,18W", "article": "NLS-702R-18W-WW", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-18W-4000K Светильник накладной,круглый,LED,18W", "article": "NLS-702R-18W-NH", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-18W-6000K Светильник накладной,круглый,LED,18W", "article": "NLS-702R-18W-WH", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-6W-3000K Светильник накладной,круглый,LED,6W", "article": "NLS-702R-6W-WW", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702R-6W-4000K Светильник накладной,круглый,LED,6W", "article": "NLS-702R-6W-NH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-12W-3000K Светильник накладной,квадратный,LED,12W", "article": "NLS-702SQ-12W-WW", "brand": "Elvan", "price": 700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-12W-4000K Светильник накладной,квадратный,LED,12W", "article": "NLS-702SQ-12W-NH", "brand": "Elvan", "price": 700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-18W-3000K Светильник накладной,квадратный,LED,18W", "article": "NLS-702SQ-18W-WW", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-18W-4000K Светильник накладной,квадратный,LED,18W", "article": "NLS-702SQ-18W-NH", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-18W-6000K Светильник накладной,квадратный,LED,18W", "article": "NLS-702SQ-18W-WH", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-6W-3000K Светильник накладной,квадратный,LED,6W", "article": "NLS-702SQ-6W-WW", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "702SQ-6W-4000K Светильник накладной,квадратный,LED,6W", "article": "NLS-702SQ-6W-NH", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-15*1W LED 15W  Трековый светильник 6000K", "article": "01-15*1W LED 15W 6000K", "brand": "Elvan", "price": 2350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-18W LED COB 4000K (NH) Трековый светильник (Нейтральный белый)", "article": "01-18W LED COB 4000K", "brand": "Elvan", "price": 2350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-18W LED COB 6000K (WH) Трековый светильник (Холодный белый)", "article": "01-18W LED COB 6000K", "brand": "Elvan", "price": 2350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-20WCOB-220V-4000K Трековый светильник (Нейтральный белый)", "article": "20-COB-20W-4000K", "brand": "Elvan", "price": 2560, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-20WCOB-220V-6000K Трековый светильник (Холодный белый)", "article": "20-COB-20W-6000K", "brand": "Elvan", "price": 2560, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-30WCOB-220V-4000K (BK) Трековый светильник (Нейтральный белый)", "article": "01-30WCOB-220V-4000K-BK", "brand": "Elvan", "price": 5100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-30WCOB-220V-4000K (WH) Трековый светильник (Нейтральный белый)", "article": "01-30WCOB-220V-4000K-WH", "brand": "Elvan", "price": 5100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-30WCOB-220V-6000K (BK) Трековый светильник (Холодный белый)", "article": "01-30WCOB-220V-6000K-BK", "brand": "Elvan", "price": 3560, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "01-30WCOB-220V-6000K (WH) Трековый светильник (Холодный белый)", "article": "01-30WCOB-220V-6000K-WH", "brand": "Elvan", "price": 5100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02-15*1W LED 15W 6000K Трековый светильник (Холодный белый)", "article": "02-15*1W LED 15W 6000K", "brand": "Elvan", "price": 3320, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02-20W LED COB WH 20W Светильник встр. 6000К (Холодный белый)", "article": "02-20W LED COB 6000К", "brand": "Elvan", "price": 4600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "021-20W-4000K Трековый светильник двух фазный (нейтральный белый)", "article": "PJ-021-20W-NH", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "021-20W-4000K Трековый светильник трёх фазный (нейтральный белый)", "article": "PJ-021-20W-3line-NH", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "03-15W LED COB 6000K Трековый светильник (Холодный белый)", "article": "03-15W LED COB 6000K", "brand": "Elvan", "price": 3810, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "03-30W LED COB 4000K (NH) Трековый светильник Белое Крепление", "article": "03-30W LED COB 4000K БлКр", "brand": "Elvan", "price": 5440, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "03-30W LED COB 6000K (WH) Трековый светильник Белое крепление", "article": "03-30W LED COB 6000K БлКр", "brand": "Elvan", "price": 5440, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "030-30W-4000 Трековый светильник трёх фазный (Нейтральный белый)", "article": "PJ-030-30W-3Line-NH", "brand": "Elvan", "price": 5950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "032-30W-4000КТрековый светильник Трёх фазный (Нейтральный белый)", "article": "PJ-032-30W-3Line-NH", "brand": "Elvan", "price": 5950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "034-7W-4000K-BK Трековый светильник (Нейтральный белый)", "article": "PJ034-7W-4000K-BK", "brand": "Elvan", "price": 1370, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "034-7W-4000K-WH Трековый светильник (Нейтральный белый)", "article": "PJ034-7W-4000K-WH", "brand": "Elvan", "price": 1370, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "035-12W-4000K-BK Трековый светильник (Нейтральный белый)", "article": "PJ035-12W-4000K-BK", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "035-12W-4000K-WH Трековый светильник (Нейтральный белый)", "article": "PJ035-12W-4000K-WH", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "036-35W-4000K-WHТрековый светильник (Нейтральный белый)", "article": "PJ036-35W-4000K-WH", "brand": "Elvan", "price": 5850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "037-50W-4000K-WHТрековый светильник (Нейтральный белый)", "article": "PJ037-50W-4000K-WH", "brand": "Elvan", "price": 8950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "04-20WCOB-220V-6000K Трековый светильник (Холодный белый)", "article": "04-20WCOB-220V-6000K", "brand": "Elvan", "price": 4620, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "04-30W LED COB 6000K (WH) Трековый светильник Белый круг", "article": "04-30W LED COB 6000K Бел", "brand": "Elvan", "price": 5440, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "04-30W LED COB 6000K (WH) Трековый светильник Черный круг", "article": "04-30W LED COB 6000K Черн", "brand": "Elvan", "price": 5440, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы поворотные белые для направляющих Две фазы", "article": "Kon R-WH-2Line", "brand": "Elvan", "price": 490, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы поворотные белые для направляющих Три фазы", "article": "Коннект пов бел NEW", "brand": "Elvan", "price": 590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы поворотные черные для направляющих Две фазы", "article": "Kon-R-BK-2Line", "brand": "Elvan", "price": 390, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы поворотные черные для направляющих Три фазы", "article": "Коннект пов черн NEW", "brand": "Elvan", "price": 590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы прямые белые для направляющих", "article": "Kon I-WH-Line", "brand": "Elvan", "price": 320, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы прямые белые для направляющих Две фазы", "article": "Kon I-WH-2Line", "brand": "Elvan", "price": 200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы прямые черные для направляющих", "article": "Kon I-BK-Line", "brand": "Elvan", "price": 200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы прямые черные для направляющих Две фазы", "article": "Kon I-BK-2Line", "brand": "Elvan", "price": 250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы прямые черные для направляющих три фазы", "article": "Kon I-BK-2Line NEW", "brand": "Elvan", "price": 480, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы угловые белые для направляющих", "article": "Kon I-WH-1Line", "brand": "Elvan", "price": 320, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Коннекторы угловые черные для направляющих", "article": "Kon I-BK-1Line", "brand": "Elvan", "price": 320, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 1.5м белая", "article": "TRACK150CM-WH", "brand": "Elvan", "price": 590, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 1м белая", "article": "TRACK100CV-WH", "brand": "Elvan", "price": 490, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 1м черная", "article": "TRACK100CM-BLK", "brand": "Elvan", "price": 490, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 2м белая", "article": "DSY-DGT3", "brand": "Elvan", "price": 790, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 2м белая (две фазы)", "article": "DSY-DGT33", "brand": "Elvan", "price": 1550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 2м белая (три фазы)", "article": "DSY-DGT33 NEW", "brand": "Elvan", "price": 3300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Направляющая (шинопровод) для прожектора 2м черная", "article": "DSY-DGT3", "brand": "Elvan", "price": 790, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "034 Прожектор, 10W-4000K", "article": "PJ-034-10W", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "034 Прожектор, 20W-4000K", "article": "PJ-034-20W", "brand": "Elvan", "price": 1780, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "034 Прожектор, 30W-4000K", "article": "PJ-034-30W", "brand": "Elvan", "price": 2950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "045  Прожектор  5630SMD-50W-4000K", "article": "PJ-045-50W", "brand": "Elvan", "price": 1850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "046  Прожектор  5630SMD-30W-4000K", "article": "PJ-046-30W", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "047  Прожектор  5630SMD-20W-4000K", "article": "PJ-047-20W", "brand": "Elvan", "price": 1050, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "048  Прожектор  5630SMD-10W-4000K", "article": "PJ-048-10W", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "Прожектор LED 70W 360*290*140 WW теплый", "article": "YG-TG07 WW", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00111-1 Светильник уличного освещения  8W-NH", "article": "BR00111-1", "brand": "Elvan", "price": 1780, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "021-(5906S)3000K-LED2W Cветильник  4,5см*11см", "article": "А021-(5906S)", "brand": "Elvan", "price": 760, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "021-(5906S)4000K-LED2W Cветильник  4,5см*11см", "article": "А021-(5906S)", "brand": "Elvan", "price": 760, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "025-(5901S)3000K-LED2W  Светильник (7*7*5.5)", "article": "А025-(5901S)", "brand": "Elvan", "price": 940, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "025-(5901S)4000K-LED2W  Светильник (7*7*5.5)", "article": "А025-(5901S)", "brand": "Elvan", "price": 940, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1178-SL-3W  Светильник LED для лестниц", "article": "1178-SL-3W", "brand": "Elvan", "price": 800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "303-3W-3000K Подсветка для лестниц", "article": "VLS-303 WW", "brand": "Elvan", "price": 450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5901L-3000К Светильник встраиваемый светодиодный LED 3W(105*105*55)", "article": "5901L-WW", "brand": "Elvan", "price": 1150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5901L-4000К Светильник встраиваемый светодиодный LED 3W(105*105*55)", "article": "5901L-NH", "brand": "Elvan", "price": 980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "014/21W MS T5 6400 K  Светильник", "article": "MB-014/21W", "brand": "Elvan", "price": 1850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "070/14W MS T5 6400 K  Светильник", "article": "MB-070/14W", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "070/21W MS T5 6400 K  Светильник", "article": "MB-070/21W", "brand": "Elvan", "price": 1850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "070/8W MS T5 6400 K  Светильник", "article": "MB-070/8W", "brand": "Elvan", "price": 930, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "075/8W MS T5 6400 K  Светильник", "article": "MB-075/8W", "brand": "Elvan", "price": 850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "100/14W SN T5 6400 K  Подсветка для картин", "article": "MB-100/14W", "brand": "Elvan", "price": 1990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "108/14W MS T5 6400 K  Светильник", "article": "MB-108/14W", "brand": "Elvan", "price": 1750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "113/14W CH T5 6400 K  Светильник", "article": "MB-113/14W", "brand": "Elvan", "price": 1210, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "123/14W CH T5 6400 K  Светильник", "article": "MB-123/14W", "brand": "Elvan", "price": 1330, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "231/300 22W CH T5 6400 K  Светильник круглый", "article": "MX-231/300 22W", "brand": "Elvan", "price": 1800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "110-3-COB30- 6000K (WH)  Светодиодный светильник (Холодный белый)", "article": "110-3-COB30- 6000K", "brand": "Elvan", "price": 6760, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "33-9 Светильник встраиваемый прямоугольный 6000K 9W SN/CH 256*92 Cut*230*80", "article": "YG-DT33-9W WH", "brand": "Elvan", "price": 350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "34-12 Светильник встраиваемый квадратный  6000K 12W SN/CH 177*177 Cut*160*160", "article": "YG-DT34-12W WH", "brand": "Elvan", "price": 500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "2281SQ SGD Точечный светильник матовое золото LED-1*1W", "article": "2281SQ SGD", "brand": "Elvan", "price": 400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00098-1 Бра Е14х1", "article": "BR-00098-1", "brand": "Elvan", "price": 1100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00098-6 Люстра подвесная E14x6", "article": "LU00098-6", "brand": "Elvan", "price": 7500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00098-8 Люстра подвесная E14x8", "article": "LU00098-8", "brand": "Elvan", "price": 9950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00161-1-BR Бра E27x1", "article": "BR00161-1-BR", "brand": "Elvan", "price": 2950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00161-2-BR Бра E27x2", "article": "BR00161-2-BR", "brand": "Elvan", "price": 4100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00161-3-BR  Люстра подвесная E27x3", "article": "LU00161-3-BR", "brand": "Elvan", "price": 9300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00161-6-BR  Люстра подвесная E27x6", "article": "LU00161-6-BR", "brand": "Elvan", "price": 13700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00161-8-BR  Люстра подвесная E27x8", "article": "LU00161-8-BR", "brand": "Elvan", "price": 18250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00166-1-3W-4000K Бра светодиодная хром Е27х1, 1LEDx3W", "article": "BR00166-1-CHR-4000K", "brand": "Elvan", "price": 6450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3232-5 Люстра подвесная E14х5", "article": "3232-5 MD", "brand": "Elvan", "price": 9950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4447-8Beige Люстра подвесная E14х8", "article": "MDG4447-8Beige", "brand": "Elvan", "price": 16350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "95246-3 Люстра подвесная Е27х3", "article": "MD95246-3", "brand": "Elvan", "price": 7200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00102-1  Бра E14х1", "article": "BR00102-1", "brand": "Elvan", "price": 900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00102-3 Люстра потолочная E14x3", "article": "LU00102-3", "brand": "Elvan", "price": 3000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00103-1A  Бра E14х1", "article": "BR00103-1A", "brand": "Elvan", "price": 1100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00103-3A Люстра потолочная E14x3", "article": "LU00103-3A", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-1FG  Бра E14х1", "article": "BR00106-1FG", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-1SN  Бра E14х1", "article": "BR00106-1SN", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-3FG Люстра потолочная E14x3", "article": "LU00106-3FG", "brand": "Elvan", "price": 2650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-3SN Люстра потолочная E14x3", "article": "LU00106-3SN", "brand": "Elvan", "price": 2650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-5SN Люстра потолочная E14x5", "article": "LU00106-5SN", "brand": "Elvan", "price": 4400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00107-1 Бра Е14х1", "article": "BR00107-1", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00107-3 Люстра потолочная E14x3", "article": "LU00107-3", "brand": "Elvan", "price": 3480, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00107-5 Люстра потолочная E14x5", "article": "LU00107-5", "brand": "Elvan", "price": 4500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00108-1  Бра E14х1", "article": "BR00108-1", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00108-3 Люстра потолочная E14x3", "article": "LU00108-3", "brand": "Elvan", "price": 3400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00108-5 Люстра потолочная E14x5", "article": "LU00108-5", "brand": "Elvan", "price": 4500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00109-3 Люстра потолочная E14x3", "article": "LU00109-3", "brand": "Elvan", "price": 4200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00110-1A  Бра E14х1", "article": "BR00110-1A", "brand": "Elvan", "price": 990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00110-1B  Бра E14х1", "article": "BR00110-1B", "brand": "Elvan", "price": 990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00110-3A Люстра потолочная E14x3", "article": "LU00110-3A", "brand": "Elvan", "price": 2700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00110-3B Люстра потолочная E14x3", "article": "LU00110-3B", "brand": "Elvan", "price": 2700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00110-5A Люстра потолочная E14x5", "article": "LU00110-5A", "brand": "Elvan", "price": 3600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "0052C-2 Бра E14х2", "article": "W0052C", "brand": "Elvan", "price": 8680, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02643C-001 Люстра потолочная T5х1", "article": "MA02643C-001", "brand": "Elvan", "price": 8500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02643C-002 Люстра потолочная T5х2", "article": "MA02643C-002", "brand": "Elvan", "price": 17600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02643C-003 Люстра потолочная T5х3", "article": "MA02643C-003", "brand": "Elvan", "price": 22600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02643W-001 Бра T5х1", "article": "MA02643W-001", "brand": "Elvan", "price": 8500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000-1CR Бра E14х1", "article": "MB10000-1", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000-3CR Люстра потолочная E14х3", "article": "MX10000-3", "brand": "Elvan", "price": 3550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000-5CR Люстра потолочная E14х5", "article": "MX10000-5", "brand": "Elvan", "price": 5150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000-6CR Люстра потолочная E14х6", "article": "MX10000-6", "brand": "Elvan", "price": 5750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000A-1FGD Бра E14х1", "article": "MB10000A-1", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000A-3FGD Люстра потолочная E14х3", "article": "MX10000A-3", "brand": "Elvan", "price": 3550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000A-5FGD Люстра потолочная E14х5", "article": "MX10000A-5", "brand": "Elvan", "price": 5150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "10000A-6FGD Люстра потолочная E14х6", "article": "MX10000A-6", "brand": "Elvan", "price": 5750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1004-6 Люстра потолочная Е14х6", "article": "N1004-6", "brand": "Elvan", "price": 5400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1005-6 Люстра потолочная Е14х6", "article": "N1005-6", "brand": "Elvan", "price": 5400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12003-1 Бра E27х1", "article": "MB12003-1", "brand": "Elvan", "price": 1600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12003-5 Люстра потолочная Pearl Black E27х5", "article": "MX12003-5", "brand": "Elvan", "price": 7150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12003-8 Люстра потолочная E27х8", "article": "MX12003-8", "brand": "Elvan", "price": 12050, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12009A-1 Бра E14х1", "article": "MB12009A-1", "brand": "Elvan", "price": 1400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12009A-4 Люстра потолочная E14х4", "article": "MX12009A-4", "brand": "Elvan", "price": 3950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12009A-5 Люстра потолочная E14х5", "article": "MX12009A-5", "brand": "Elvan", "price": 4350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12009A-9 Люстра потолочная E14х9", "article": "MX12009A-9", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12041-5WH Люстра потолочная Е14х5", "article": "MX12041-5", "brand": "Elvan", "price": 4700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12229-3 Люстра потолочная E14х3", "article": "MX12229-3", "brand": "Elvan", "price": 3150, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12229-5 Люстра потолочная E14х5", "article": "MX12229-5", "brand": "Elvan", "price": 4800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12501-3 Люстра потолочная Pearl Black E14х3", "article": "MX12501-3", "brand": "Elvan", "price": 3850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12501-5 Люстра потолочная E14х5", "article": "MX12501-5", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "14506-6 Люстра подвесная G9х6", "article": "OL14506-6C", "brand": "Elvan", "price": 19900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831006-3CR Люстра потолочная E27х3", "article": "E1831006-3 CR+WT", "brand": "Elvan", "price": 2820, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831006-3WG Люстра потолочная E27х3", "article": "E1831006-3 WG+WT", "brand": "Elvan", "price": 2820, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831006-5CR Люстра потолочная E27х5", "article": "E1831006-5 CR+WT", "brand": "Elvan", "price": 4100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831006-5WG Люстра потолочная E27х5", "article": "E1831006-5 WG+WT", "brand": "Elvan", "price": 4100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "2553 Люстра потолочная Е14х6", "article": "2553", "brand": "Elvan", "price": 2700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "2W0156C-2 Бра G9х2", "article": "2W0156-C", "brand": "Elvan", "price": 5800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3006B-4 Люстра потолочная E14х4", "article": "MX3006B-4", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36324-1 Бра E14х1", "article": "MB36324-1", "brand": "Elvan", "price": 1360, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36324-3 Люстра потолочная E14х3", "article": "MD36324-3", "brand": "Elvan", "price": 3600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36324-5 Люстра потолочная E14х5", "article": "MD36324-5", "brand": "Elvan", "price": 6250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36324-6 Люстра потолочная E14х6", "article": "MD36324-6", "brand": "Elvan", "price": 7070, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36504-1 Бра E14х1", "article": "MB36504-1", "brand": "Elvan", "price": 1400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36504-3 Люстра потолочная E14х3", "article": "MD36504-3", "brand": "Elvan", "price": 3780, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36504-5 Люстра потолочная E14х5", "article": "MD36504-5", "brand": "Elvan", "price": 5570, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36504-8 Люстра потолочная E14х8", "article": "MD36504-8", "brand": "Elvan", "price": 8840, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36629-1 Бра E27х1", "article": "MB36629-1", "brand": "Elvan", "price": 1450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36629-5 Люстра потолочная E27х5", "article": "MD36629-5", "brand": "Elvan", "price": 6300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36879-1 Бра E14х1", "article": "MB36879-1", "brand": "Elvan", "price": 950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "36879-6 Люстра потолочная E14х6", "article": "MD36879-6", "brand": "Elvan", "price": 4500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "37049-8 Whate Люстра потолочная E14х8", "article": "MD37049-8", "brand": "Elvan", "price": 9300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "37158-5 Люстра потолочная E14х5", "article": "MD37158-5", "brand": "Elvan", "price": 3990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "8018-350 Люстра подвесная Е27х3", "article": "P8018-350RG", "brand": "Elvan", "price": 2600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "04185C-008 Люстра подвесная E14х8", "article": "MA04185C-008", "brand": "Elvan", "price": 50220, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12060-6 Люстра подвесная E14x6", "article": "OL12060-6", "brand": "Elvan", "price": 21710, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "12060-8 Люстра подвесная E14x8", "article": "OL12060-8", "brand": "Elvan", "price": 26500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "13003-300 Люстра потолочная E14х3", "article": "OL13003-300CH", "brand": "Elvan", "price": 10700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "13005-6C Люстра потолочная CH E27х6", "article": "OL13005-6C CH E27*6", "brand": "Elvan", "price": 26930, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "13005-6C Люстра потолочная GD E27х6", "article": "OL13005-6C GD E27*6", "brand": "Elvan", "price": 26930, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "13005-9C Люстра потолочная GD E27х9", "article": "OL13005-9C GD E27*9", "brand": "Elvan", "price": 38710, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "14511-600 Люстра подвесная G9x9", "article": "OL14511-600", "brand": "Elvan", "price": 19950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "14511-900 Люстра подвесная G9x10", "article": "OL14511-900", "brand": "Elvan", "price": 25800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831007-6 Люстра подвесная E14х6", "article": "E1831007-6 SG-P+WT", "brand": "Elvan", "price": 45900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "20121-5 Люстра подвесная CH E14х5", "article": "OL20121-5 CH", "brand": "Elvan", "price": 37850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "20121-5 Люстра подвесная GD Amber E14х5", "article": "OL20121-5  GD", "brand": "Elvan", "price": 37850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3006-450 Люстра потолочная LEDх15", "article": "OL3006-450", "brand": "Elvan", "price": 9900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "37031-6 Brass Люстра подвесная E14х6", "article": "MD37031-6", "brand": "Elvan", "price": 38900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "37031-8 Brass Люстра подвесная E14х8", "article": "MD37031-8", "brand": "Elvan", "price": 49500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "37135-6 Люстра подвесная E14х6", "article": "MD37135-6", "brand": "Elvan", "price": 13950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5302-5 GO+YL Люстра подвесная E14х5", "article": "MDG5302-5 GO+YL", "brand": "Elvan", "price": 21500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "8007-6 Люстра подвесная E14x6", "article": "OL8007-6", "brand": "Elvan", "price": 35850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "8007-8 Люстра подвесная E14x8", "article": "OL8007-8", "brand": "Elvan", "price": 37900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "8007-8+4 Люстра подвесная E14x12", "article": "OL8007-8+4", "brand": "Elvan", "price": 52300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "916-2W Бра CH E14x2", "article": "N916-2W CH", "brand": "Elvan", "price": 5200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "916-2W Бра GD E14x2", "article": "N916-2W GD", "brand": "Elvan", "price": 5200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "920-52 Люстра подвесная Е14х52", "article": "N 920-52 GD", "brand": "Elvan", "price": 352670, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "954-2WA Бра E14x2", "article": "OL954-2WA", "brand": "Elvan", "price": 7390, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "983-6 GD Люстра подвесная E14x6", "article": "OL983-6 GD", "brand": "Elvan", "price": 30480, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "983-8 GD Люстра подвесная Е14х8", "article": "OL983-8 GD", "brand": "Elvan", "price": 37290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00089-1-8W-4000K Бра светодиодное хром", "article": "BR00089-1", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00091-1-12W-4000K Бра светодиодное хром", "article": "LU00091-1", "brand": "Elvan", "price": 6300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00091-3-43,2W-4000K Люстра светодиодная потолочная", "article": "LU00091-3", "brand": "Elvan", "price": 22500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00092-5-19W-4000K  Люстра светодиодная потолочная", "article": "LU00092-5", "brand": "Elvan", "price": 15810, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00092-5-26W-4000К Люстра светодиодная подвесная хром", "article": "LU00092-5-CHR-4000К", "brand": "Elvan", "price": 19800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00093-10- 33W-4000K Люстра светодиодная подвесная", "article": "LU00093-10", "brand": "Elvan", "price": 19800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00096-9-24W-4000K Люстра светодиодная потолочная", "article": "LU00096-6", "brand": "Elvan", "price": 13800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-6-35W-4000К Люстра светодиодная подвесная хром", "article": "LU00097-6-CHR-4000K", "brand": "Elvan", "price": 20500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-8-58W-4000К Люстра светодиодная подвесная белая", "article": "LU00097-8-WH-CHR-4000K", "brand": "Elvan", "price": 29780, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00123-6-43W-4000К Люстра светодиодная подвесная белая", "article": "LU00123-6-WH-CHR-4000K", "brand": "Elvan", "price": 28600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00124-6-43W-4000К Люстра светодиодная потолочная белая с хромом", "article": "LU00124-6-WH-CHR-4000K", "brand": "Elvan", "price": 28600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00124-8-69W-4000К Люстра светодиодная потолочная белая", "article": "LU00124-8-WH-CHR-4000K", "brand": "Elvan", "price": 34900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00131-2-7W-4000K Бра светодиодное белая с хромом", "article": "BR00131-2-WH-CHR-4000K", "brand": "Elvan", "price": 6800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-3-8W-4000K Бра светодиодное белая", "article": "BR00136-3-WH-CHR-4000K", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-4-12W-4000K Бра светодиодное белая", "article": "BR00136-4-WH-CHR-4000K", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00147-5-27W-4000К Люстра светодиодная подвесная хром", "article": "LU00147-5-CHR-4000K", "brand": "Elvan", "price": 29950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00147-6-23W-4000К Люстра светодиодная подвесная хром", "article": "LU00147-6-CHR-4000K", "brand": "Elvan", "price": 22900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00147-8-30W-4000К Люстра светодиодная потолочная хром", "article": "LU00147-8-CHR-4000K", "brand": "Elvan", "price": 26700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00154-5-21W-4000K Люстра светодиодная подвесная белая", "article": "LU00154-5-WH-4000K", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-15-5x15W-4000K Люстра светодиодная подвесная белая", "article": "LU00155-15-WH-4000K", "brand": "Elvan", "price": 15700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-15-5x15W-4000K Люстра светодиодная подвесная черная", "article": "LU00155-15-BK-4000K", "brand": "Elvan", "price": 15700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-5-3x21W-4000K Люстра светодиодная подвесная белая", "article": "LU00155-5-WH-4000K", "brand": "Elvan", "price": 14500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-6-4x21W-4000K Люстра светодиодная подвесная белая", "article": "LU00155-6-WH-4000K", "brand": "Elvan", "price": 19450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-6-4x21W-4000K Люстра светодиодная подвесная белая  круглое основание", "article": "LU00155-6-WH-4000K", "brand": "Elvan", "price": 19450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-6-4x21W-4000K Люстра светодиодная подвесная черная", "article": "LU00155-6-BK-4000K", "brand": "Elvan", "price": 19450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00155-6-4x21W-4000K Люстра светодиодная подвесная черная  круглое основание", "article": "LU00155-6-BK-4000K", "brand": "Elvan", "price": 19450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00156-36-3x12W-4000K Люстра светодиодная подвесная белая", "article": "LU00156-36-WH-4000K", "brand": "Elvan", "price": 12900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00157-1-8W-4000K Бра светодиодное белое", "article": "BR00157-1-WH-4000K", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00162-1-8W-4000K Бра светодиодная хром", "article": "BR00162-1-CHR-4000K", "brand": "Elvan", "price": 8950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00163-1-6W-4000K Бра светодиодная хром", "article": "BR00163-1-CHR-4000K", "brand": "Elvan", "price": 8900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00163-2-12W-4000K Бра светодиодная хром", "article": "BR00163-2-CHR-4000K", "brand": "Elvan", "price": 12050, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00163-5-48W-4000K Люстра светодиодная подвесная хром", "article": "LU00163-5-CHR-4000K", "brand": "Elvan", "price": 68650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1203 Люстра подвесная E14х5", "article": "MD1203", "brand": "Elvan", "price": 7900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4432-1 Светильник настенно-потолочный E27х1", "article": "MBG4432-1WENGE", "brand": "Elvan", "price": 1620, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4432-3 Светильник настенно-потолочный E27х3", "article": "MDG4432-3WENGE", "brand": "Elvan", "price": 3250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4451-1DGRY  Светильник настенно-потолочный E27х1", "article": "MDG4451-1DGRY", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4451-1WENGE Светильник настенно-потолочный E27х1", "article": "MDG4451-1WENGE", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4451-3DGRY  Светильник настенно-потолочный E27х3", "article": "MDG4451-3DGRY", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4451-3WENGE Светильник настенно-потолочный E27х3", "article": "MDG4451-3WENGE", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4504-3 HFT Светильник настенно-потолочный E27х3", "article": "MDG4504-3 HFT", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4504-3 YL Светильник настенно-потолочный E27х3", "article": "MDG4504-3 YL", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4505-3 HFT Светильник настенно-потолочный E27х3", "article": "MDG4505-3 HFT", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4505-3 YL Светильник настенно-потолочный E27х3", "article": "MDG4505-3 YL", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6253-2 Светильник настенно-потолочный E27х2", "article": "MDG6253-2 SL", "brand": "Elvan", "price": 3300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6253-3 Светильник настенно-потолочный E27х3", "article": "MDG6253-3 SL", "brand": "Elvan", "price": 4600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6260-2 Светильник настенно-потолочный E27х2", "article": "MDG6260-2 GREY", "brand": "Elvan", "price": 3200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6260-3 Светильник настенно-потолочный E27х3", "article": "MDG6260-3 GREY", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6262-2 Светильник настенно-потолочный E27х2", "article": "MDG6262-2 GREY", "brand": "Elvan", "price": 3300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6271-3BK Светильник настенно-потолочный E27х3", "article": "MDG6271-3 BK", "brand": "Elvan", "price": 4500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6275-3 BK Светильник настенно-потолочный E27х3", "article": "MDG6275-3 BK", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "6314-3 Светильник настенно-потолочный E27х3", "article": "MDG6314-3SL", "brand": "Elvan", "price": 3900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1106PK Подвес  E27-1x60W", "article": "PS 1106PK", "brand": "Elvan", "price": 1400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1301PL Подвес  E27-1x60W", "article": "PS 1301PL", "brand": "Elvan", "price": 550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "4013Silver Подвес E27-1x60W", "article": "N4013SL", "brand": "Elvan", "price": 3800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "70225A-2 Подвес E27 2x60W", "article": "MD70225A-2", "brand": "Elvan", "price": 2500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "91100-2 Подвес E27-2x40W", "article": "MD91100-2", "brand": "Elvan", "price": 3280, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "91200-1 Подвес E14-1x40W", "article": "MD91200-1", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00158-1-5W-4000K Спот светодиодный белый", "article": "BR00158-1-WH-4000K", "brand": "Elvan", "price": 2550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00158-2-2х5W-4000K Спот светодиодный белый", "article": "BR00158-2-WH-4000K", "brand": "Elvan", "price": 4980, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00158-5-3х5W-4000K Спот светодиодный белый", "article": "LU00158-5-WH-4000K", "brand": "Elvan", "price": 7500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00159-1-5W-4000K Спот светодиодный белый", "article": "BR00159-1-WH-4000K", "brand": "Elvan", "price": 2500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00159-2-2х5W-4000K Спот светодиодный белый", "article": "BR00159-2-WH-4000K", "brand": "Elvan", "price": 4500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00160-2-2х5W-4000K Спот светодиодный белый", "article": "BR00160-2-WH-4000K", "brand": "Elvan", "price": 5600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00160-2-2х5W-4000K Спот светодиодный черный", "article": "BR00160-2-BK-4000K", "brand": "Elvan", "price": 5600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3172A-2 Спот E14х2", "article": "MB3172A-2", "brand": "Elvan", "price": 2300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3172A-3 Спот E14х3", "article": "MB3172A-3", "brand": "Elvan", "price": 3350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "509-04-8422 Спот G9х4", "article": "HP-509-04-8422SL", "brand": "Elvan", "price": 1900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "918B-02F-8422 Спот E14х2", "article": "HP-918B-02F-8422LA", "brand": "Elvan", "price": 1950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "918B-03F-8422 Спот E14х3", "article": "HP-918B-03F-8422LA", "brand": "Elvan", "price": 2650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00151-1-15W-4000K Бра светодиодное белое", "article": "T00151-1-WH-4000K", "brand": "Elvan", "price": 4700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00163-1-12W-4000K Настольная лампа светодиодная хром", "article": "T00163-1-CHR-4000K", "brand": "Elvan", "price": 16700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "0127W-1  Настольная лампа E27-1x60W", "article": "T0127W", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1831009-1 Настольная лампа E27х1", "article": "T-E1831009-1 WTSL+WT", "brand": "Elvan", "price": 4800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "5008B-1 Настольная лампа Е14х1", "article": "MT5008B-1", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "80208PU Настольная лампа E27х1", "article": "OL80208 Pur", "brand": "Elvan", "price": 600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "80208WH Настольная лампа E27х1", "article": "OL80208 WH", "brand": "Elvan", "price": 600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "954-2 Настольная лампа E14x2", "article": "OL954-2 T", "brand": "Elvan", "price": 5800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "96903-1 Настольная лампа E27 1x60W", "article": "MT96903-1", "brand": "Elvan", "price": 2300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00092-1-40W-4000K  Торшер светодиодный", "article": "BR00092-1-CHR-4000K", "brand": "Elvan", "price": 24800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00092-2-17W-4000K  Торшер светодиодный", "article": "BR00092-2-CHR-4000K", "brand": "Elvan", "price": 12850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "3246A-1MW Торшер E14х1", "article": "ML3246A-1WH", "brand": "Elvan", "price": 9800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-1A-9W-4000K Подсветка светодиодная хром 60см", "article": "BR00165-1A-CHR-4000K", "brand": "Elvan", "price": 6200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-1B-9W-4000K Подсветка светодиодная хром 60см", "article": "BR00165-1B-CHR-4000K", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-1C-9W-4000K Подсветка светодиодная хром 60см", "article": "BR00165-1C-CHR-4000K", "brand": "Elvan", "price": 6200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-1D-9W-4000K Подсветка светодиодная хром 60см", "article": "BR00165-1D-CHR-4000K", "brand": "Elvan", "price": 6200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-2A-6W-4000K Подсветка светодиодная хром 30см", "article": "BR00165-2A-CHR-4000K", "brand": "Elvan", "price": 6950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00165-2B-9W-4000K Подсветка светодиодная хром 60см", "article": "BR00165-2B-CHR-4000K", "brand": "Elvan", "price": 7500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1303-3 Светильник G9x3", "article": "MB1303-3", "brand": "Elvan", "price": 3300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "03923W-001 Бра E14-1x40W", "article": "MA03923W-001", "brand": "Elvan", "price": 800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1031W Бра", "article": "N1031W", "brand": "Elvan", "price": 790, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1046W Светильник Т5*8W", "article": "N1046W", "brand": "Elvan", "price": 2400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1046WA Светильник Т5*14W", "article": "N1046WA", "brand": "Elvan", "price": 2600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1046WВ  Светильник Т5*21W", "article": "N1046WВ", "brand": "Elvan", "price": 2900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "61542-1 Бра  E27x1", "article": "HYB 61542-1", "brand": "Elvan", "price": 750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02417C-004 Люстра E14x4", "article": "MA02417C-004", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02417CA-008 Люстра E14x8", "article": "MA02417CA-008", "brand": "Elvan", "price": 5200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "02430C-018 Люстра E14-9x40W Led 9x1W", "article": "MA02430C-018", "brand": "Elvan", "price": 13520, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "30829-6АВ Люстра E27-6x60W", "article": "HSX-30829-6АВ", "brand": "Elvan", "price": 4950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "61548-8 Люстра E14x8", "article": "HYD 61548-8", "brand": "Elvan", "price": 5900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "8515-04B-FEG Люстра золото E14-3x60W+ G9-1x40W", "article": "H8515-04B-(FEG)", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1027Т Лампа настольная G9-1x40W", "article": "N1027Т", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "61664-1 Настольная лампа E27", "article": "HYТ 61664-1", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "355 CH Зеркало 620*930мм", "article": "OL355 CH", "brand": "Elvan", "price": 17250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "049-60 Светильник дорожного освещения PJ-049-60", "article": "PJ-049-60", "brand": "Elvan", "price": 21800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "039 Лампа промышленного освещения E-27 40W-4000K", "article": "PJ-039-40W", "brand": "Elvan", "price": 1450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "039 Лампа промышленного освещения E-27 60W-4000K", "article": "PJ-039-60W", "brand": "Elvan", "price": 1900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "16 MW-CHR-Тр Точечный светильник", "article": "16 MW-CHR-Тр", "brand": "Elvan", "price": 250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "16 WH-Тр Точечный светильник", "article": "16 WH-Тр", "brand": "Elvan", "price": 250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "16237 PS-N-Тр Точечный светильник", "article": "16237 PS-N-Тр", "brand": "Elvan", "price": 300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-52-Тр-55W-4000K Люстра светодиодная подвесная золото", "article": "LU-00097-52-HangGd55-NH", "brand": "Elvan", "price": 39900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-52-Тр-55W-4000K Люстра светодиодная подвесная хром", "article": "LU-00097-52-HangCh55-NH", "brand": "Elvan", "price": 39900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-6-Тр-35W-4000K Люстра светодиодная подвесная золото", "article": "LU-00097-6-HangGd35-NH", "brand": "Elvan", "price": 20500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-6-Тр-35W-4000K Люстра светодиодная подвесная хром", "article": "00097-6-HangCh35-NH", "brand": "Elvan", "price": 20500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00097-8-Тр-58W-4000K Люстра светодиодная подвесная хром", "article": "00097-8-HangCh58-NH", "brand": "Elvan", "price": 29780, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00126-8-Тр-35W-4000K Люстра светодиодная потолочная золото", "article": "LU-00126-8-CeilGd35-NH", "brand": "Elvan", "price": 20870, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00127-8-Тр-35W-4000K Люстра светодиодная потолочная золото", "article": "LU-00127-8-CeilGd35-NH", "brand": "Elvan", "price": 23700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00127-8-Тр-35W-4000K Люстра светодиодная потолочная хром", "article": "LU-00127-8-CeilCh35-NH", "brand": "Elvan", "price": 23700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00128-15-Тр-43W-4000K Люстра светодиодная потолочная золото", "article": "00128-15-CeilGd43-NH", "brand": "Elvan", "price": 26500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00128-15-Тр-43W-4000K Люстра светодиодная потолочная хром", "article": "LU-00128-15-CeilCh43-NH", "brand": "Elvan", "price": 26500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00128-18-Тр-64W-3000K Люстра светодиодная потолочная хром", "article": "00128-18-CeilCh64-WW", "brand": "Elvan", "price": 32900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00128-18-Тр-64W-4000K Люстра светодиодная потолочная белая+хром", "article": "LU-00128-18-CeilWHCh64-NH", "brand": "Elvan", "price": 32900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00128-20-Тр-72W-4000K Люстра светодиодная потолочная хром", "article": "00128-20-CeilCh72-NH", "brand": "Elvan", "price": 29900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00129-12-Тр-48W-4000K Люстра светодиодная потолочная белая+хром", "article": "LU-00129-12-CeilWhCh48-NH", "brand": "Elvan", "price": 26450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00129-12-Тр-48W-4000K Люстра светодиодная потолочная золото", "article": "LU-00129-12-CeilGD48-NH", "brand": "Elvan", "price": 26450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00129-12-Тр-48W-4000K Люстра светодиодная потолочная хром", "article": "LU-00129-12-CeilCh48-NH", "brand": "Elvan", "price": 26450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00131-2-Тр-7W-4000K Бра светодиодное золото", "article": "BR-00131-2-BraGd7-NH", "brand": "Elvan", "price": 6800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00131-2-Тр-7W-4000K Бра светодиодное хром", "article": "BR-00131-2-BraCh7-NH", "brand": "Elvan", "price": 6800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00132-5-Тр-12W-4000K Бра светодиодное золото", "article": "BR-00132-5-BraGd12-NH", "brand": "Elvan", "price": 10500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00132-5-Тр-12W-4000K Бра светодиодное хром", "article": "BR-00132-5-BraCh12-NH", "brand": "Elvan", "price": 10500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00133-6-Тр-35W-4000K Люстра светодиодная потолочная золото", "article": "00133-6-CeilGd35-NH", "brand": "Elvan", "price": 19900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00133-6-Тр-35W-4000K Люстра светодиодная потолочная хром", "article": "00133-6-CeilCh35-NH", "brand": "Elvan", "price": 19900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00133-8-Тр-58W-4000K Люстра светодиодная потолочная золото", "article": "00133-8-CeilGd58-NH", "brand": "Elvan", "price": 24800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00133-8-Тр-58W-4000K Люстра светодиодная потолочная хром", "article": "00133-8-CeilCh58-NH", "brand": "Elvan", "price": 24800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00134-12A-Тр-70W-4000K Люстра светодиодная подвесная хром", "article": "00134-12A-HangCh70-NH", "brand": "Elvan", "price": 36900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00134-12B-Тр-70W-4000K Люстра светодиодная подвесная (золото, с хрусталем)", "article": "00134-12B-HanGdCr70-NH", "brand": "Elvan", "price": 39500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00134-16A-Тр-115W-4000K Люстра светодиодная подвесная хром", "article": "00134-16A-HangCh115-NH", "brand": "Elvan", "price": 46700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00135-8F-Тр-4000K Люстра светодиодная потолочная хром", "article": "00135-8F-CeilCh-NH", "brand": "Elvan", "price": 19900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-3-Тр-8W-4000K Бра светодиодное золото", "article": "BR-00136-3-BraGd8-NH", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-3-Тр-8W-4000K Бра светодиодное хром", "article": "00136-3-BraCh8-NH", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-4-Тр-12W-4000K Бра светодиодное белая", "article": "00136-4-BraWh12-NH", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-4-Тр-12W-4000K Бра светодиодное золото", "article": "BR-00136-4-BraGd12-NH", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00136-4-Тр-12W-4000K Бра светодиодное хром", "article": "00136-4-BraCh12-NH", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "1200*180*40mm-Тр-45W-4800Lm-5700K-IP20 Панель LED ARM", "article": "ТР1200x180x40-45-4800-WH", "brand": "Elvan", "price": 2250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*180*40mm-Тр-30W-2300Lm-4000K-IP20 Панель LED ARM", "article": "ТР600x180x40-30-2300-NH", "brand": "Elvan", "price": 1990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "600*600*40mm-Тр-45W-4800Lm-5700K-IP20 Панель LED ARM с пов. планкой", "article": "ТР600x600x40T40-4800-WH", "brand": "Elvan", "price": 2250, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "031-Тр-30W-4000K Светильник LED трековый однофазный белый", "article": "031-30W-NH-TrecWh", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "031-Тр-30W-4000K Светильник LED трековый однофазный черный", "article": "031-30W-NH-TrecBl", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "038-Тр-24W-4000K Светильник LED трековый однофазный белый", "article": "038-24W-NH-TrecWh", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "038-Тр-24W-4000K Светильник LED трековый однофазный черный", "article": "038-24W-NH-TrecBl", "brand": "Elvan", "price": 2750, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "307R-Тр-16W-4000K Светильник LED встраиваемый", "article": "307R-16W-NH-LED", "brand": "Elvan", "price": 1280, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "307R-Тр-22W-4000K Светильник LED встраиваемый", "article": "307R-22W-NH-LED", "brand": "Elvan", "price": 1650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "307SQ-Тр-16W-4000K Светильник LED встраиваемый", "article": "307SQ-16W-NH-LED", "brand": "Elvan", "price": 1280, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "307SQ-Тр-22W-4000K Светильник LED встраиваемый", "article": "307SQ-22W-NH-LED", "brand": "Elvan", "price": 1650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "542R-Тр-16W-4000K Светильник LED накладной", "article": "542R-16W-NH-LED", "brand": "Elvan", "price": 1350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "542R-Тр-22W-4000K Светильник LED накладной", "article": "542R-22W-NH-LED", "brand": "Elvan", "price": 1700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "542SQ-Тр-16W-4000K Светильник LED накладной", "article": "542SQ-16W-NH-LED", "brand": "Elvan", "price": 1350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "542SQ-Тр-22W-4000K Светильник LED накладной", "article": "542SQ-22W-NH-LED", "brand": "Elvan", "price": 1700, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "544-Тр-7W-4000K Светильник LED накладной круглый белый", "article": "544-7W-NH-RouWh", "brand": "Elvan", "price": 1550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "544-Тр-7W-4000K Светильник LED накладной круглый черный", "article": "544-7W-NH-RouBl", "brand": "Elvan", "price": 1550, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00103-Тр-3D Люстра потолочная E27х3", "article": "00103-3D-LuCeilE14", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00103-Тр-5A Люстра потолочная E27х5", "article": "00103-5A-LuCeilE27", "brand": "Elvan", "price": 5450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00103-Тр-5D Люстра потолочная E27х5", "article": "00103-5D-LuCeilE27", "brand": "Elvan", "price": 5450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00104-Тр-3 Люстра потолочная E14х3", "article": "00104-3-LuCeilE14", "brand": "Elvan", "price": 3600, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00104-Тр-6 Люстра потолочная E14х6", "article": "00104-6-LuCeilE14", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00105-Тр-1 Бра E14х1", "article": "00105-1-BraE14", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00105-Тр-3 Люстра потолочная E14х3", "article": "00105-3-LuCeilE14", "brand": "Elvan", "price": 3950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00105-Тр-6 Люстра потолочная E14х6", "article": "00105-6-LuCeilE14", "brand": "Elvan", "price": 7350, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-3FG Люстра потолочная E14х3", "article": "00106-3FG-LuCeilE14", "brand": "Elvan", "price": 2650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-3SN Люстра потолочная E14х3", "article": "00106-3SN-LuCeilE14", "brand": "Elvan", "price": 2650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-5FG Люстра потолочная E14х5", "article": "00106-5FG-LuCeilE14", "brand": "Elvan", "price": 4400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-5SN Люстра потолочная E14х5", "article": "00106-5SN-LuCeilE14", "brand": "Elvan", "price": 4400, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-6FG Люстра потолочная E14х6", "article": "00106-6FG-LuCeilE14", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00106-Тр-6SN Люстра потолочная E14х6", "article": "00106-6SN-LuCeilE14", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00130-Тр-1 Бра E27х1", "article": "00130-1-BraE14", "brand": "Elvan", "price": 1300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00130-Тр-3 Люстра потолочная E27х3", "article": "00130-3-LuCeilE27", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00130-Тр-5 Люстра потолочная E27х5", "article": "00130-5-LuCeilE27", "brand": "Elvan", "price": 4950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00137-Тр-1 Бра E14х1", "article": "00137-1-BraE14", "brand": "Elvan", "price": 1450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00137-Тр-3 Люстра потолочная E14х3", "article": "00137-3-LuCeilE14", "brand": "Elvan", "price": 3950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00137-Тр-6 Люстра потолочная E14х6", "article": "00137-6-LuCeilE14", "brand": "Elvan", "price": 6990, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00138-Тр-1 Бра E27х1", "article": "00138-1-BraE27", "brand": "Elvan", "price": 1290, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00138-Тр-3 Люстра потолочная E14х3", "article": "00138-3-LuCeilE14", "brand": "Elvan", "price": 3710, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00138-Тр-5 Люстра потолочная E14х5", "article": "00138-5-LuCeilE14", "brand": "Elvan", "price": 5450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00139-Тр-1 Бра E14х1", "article": "00139-1-BraE27", "brand": "Elvan", "price": 1200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00139-Тр-3 Люстра потолочная E14х3", "article": "00139-3-LuCeilE14", "brand": "Elvan", "price": 3950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00139-Тр-5 Люстра потолочная E14х5", "article": "00139-5-LuCeilE14", "brand": "Elvan", "price": 5200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00139-Тр-6 Люстра потолочная E14х6", "article": "00139-6-LuCeilE14", "brand": "Elvan", "price": 5950, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00140-Тр-1 Бра E14х1", "article": "00140-1-Бра", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00140-Тр-5 Люстра потолочная E14х5", "article": "00140-5-LuCeilE14", "brand": "Elvan", "price": 7800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00141-Тр-1 Бра E27х1", "article": "00141-1-BraE27", "brand": "Elvan", "price": 1000, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00141-Тр-6 Люстра E27х6", "article": "00141-6-LuE27", "brand": "Elvan", "price": 4800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00142-Тр-1 Бра E14х1", "article": "00142-1-BraE14", "brand": "Elvan", "price": 1100, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00142-Тр-5 Люстра E14х5", "article": "00142-5-LuE14", "brand": "Elvan", "price": 4300, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00142-Тр-8 Люстра E14х8", "article": "00142-8-LuE14", "brand": "Elvan", "price": 6500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00143-Тр-1 Бра E14x1", "article": "00143-1-BraE14", "brand": "Elvan", "price": 2200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00143-Тр-1 Настольная лампа E14x1", "article": "00143-1-LampE14", "brand": "Elvan", "price": 2850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00143-Тр-3 Люстра подвесная E14x3", "article": "00143-3-LuHangE14", "brand": "Elvan", "price": 7900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00143-Тр-5 Люстра подвесная E14x5", "article": "00143-5-LuHangE14", "brand": "Elvan", "price": 12500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00143-Тр-8 Люстра подвесная E14x8", "article": "00143-8-LuHangE14", "brand": "Elvan", "price": 19850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00144-Тр-1 Бра E14x1", "article": "00144-1-BraE14", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00144-Тр-2 Бра E14x2", "article": "00144-2-BraE14", "brand": "Elvan", "price": 2450, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00144-Тр-3 Люстра подвесная E14x3", "article": "00144-3-LuHangE14", "brand": "Elvan", "price": 4900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00144-Тр-5 Люстра подвесная E14x5", "article": "00144-5-LuHangE14", "brand": "Elvan", "price": 7500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00144-Тр-7 Люстра подвесная E14x7", "article": "00144-7-LuHangE14", "brand": "Elvan", "price": 10800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-1 Бра E14x1", "article": "00145-1-BraE14", "brand": "Elvan", "price": 1500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-1 Торшер E14x1", "article": "00145-1-TorE14", "brand": "Elvan", "price": 9850, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-1A Подвес E14x1", "article": "00145-1A-HangE14", "brand": "Elvan", "price": 3500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-5A Люстра подвесная E14x5", "article": "00145-5A-LuHangE14", "brand": "Elvan", "price": 7650, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-5D Люстра подвесная E14x5", "article": "00145-5D-LuHangE14", "brand": "Elvan", "price": 7500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-7A Люстра подвесная E14x7", "article": "00145-7A-LuHangE14", "brand": "Elvan", "price": 11200, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00145-Тр-7D Люстра подвесная E14x7", "article": "00145-7D-LuHangE14", "brand": "Elvan", "price": 10900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00146-Тр-1 Бра E14x1", "article": "00146-1-BraE14", "brand": "Elvan", "price": 1800, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00146-Тр-5 Люстра подвесная E14x5", "article": "00146-5-LuHangE14", "brand": "Elvan", "price": 12500, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
+{ "name": "00146-Тр-7 Люстра подвесная E14x7", "article": "00146-7-LuHangE14", "brand": "Elvan", "price": 15900, "inStock": 0, "remoteStock": 20, "status": "", "inUse": "", "timeClosed": "" }
