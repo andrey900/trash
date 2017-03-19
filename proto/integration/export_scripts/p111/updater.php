@@ -8,10 +8,10 @@ use Studio8\Main\Integration\Helper;
 
 error_reporting(E_ERROR|E_PARSE|E_COMPILE_ERROR );
 
-define(API_KEY, '1ff2adceaa5050cd8dafab4824038e3e');
+define(API_KEY, '1ff24adceaa5050cd8dafab48240398e3e');
 
 
-	$url = 'http://2868_xmlexport:aborigine@api2.gifts.ru/export/v2/catalogue/product.xml';
+	$url = 'http://2868_xmlexport:@api2.gifts.ru/export/v2/catalogue/product.xml';
 
 /*	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
@@ -23,7 +23,7 @@ define(API_KEY, '1ff2adceaa5050cd8dafab4824038e3e');
 
 /*
 function getQuantityInfo($id){
-	$url = 'http://2868_xmlexport:aborigine@api2.gifts.ru/export/v2/catalogue/product.xml';
+	$url = 'http://2868_xmlexport:@api2.gifts.ru/export/v2/catalogue/product.xml';
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, $url);
